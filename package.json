@@ -1,0 +1,54 @@
+{
+  "name": "agriness",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "concurrently -k \"yarn:start:server\" -c red",
+    "start:server": "yarn workspace @agriness/server start",
+    "lint": "eslint --fix --ext .js",
+    "build": "lerna run build"
+  },
+  "lint-staged": {
+    "*.js": [
+      "yarn prettier --write",
+      "yarn lint",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged",
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "author": {
+    "name": "João Hencke",
+    "email": "joao.hencke@gmail.com",
+    "url": "https://github.com/joaohencke"
+  },
+  "repository": {
+    "url": "git@github.com:joaohencke/agriness.git",
+    "type": "git"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.2.0",
+    "@commitlint/config-conventional": "^8.2.0",
+    "concurrently": "^5.0.0",
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "husky": "^3.0.9",
+    "lerna": "^3.18.3",
+    "lint-staged": "^9.4.2",
+    "prettier": "^1.18.2"
+  }
+}

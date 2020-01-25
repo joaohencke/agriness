@@ -1,0 +1,27 @@
+{
+  "name": "@agriness/server",
+  "version": "0.0.1",
+  "main": "build/server.js",
+  "module": "build/server.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start:prod": "node build/server.js",
+    "start": "webpack --watch --progress --mode development",
+    "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@agriness/babel-server": "*",
+    "chalk": "^2.4.2",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^3.0.0",
+    "reload-server-webpack-plugin": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
