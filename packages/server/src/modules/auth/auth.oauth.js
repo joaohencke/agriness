@@ -66,11 +66,13 @@ export const token = options => async (req, res, next) => {
   }
 };
 
-export const revoke = () => async (req, res, next) => {
+export const revoke = () => async (req, res) => {
   try {
-    await AuthModel.findByIdAndDelete(res.locals.oauth.token._id);
-    next();
+    await AuthModel.findOneAndRemove({
+      token: res.locals.oauth.token.accessToken,
+    });
+    res.end();
   } catch (e) {
-    next();
+    res.end();
   }
 };
