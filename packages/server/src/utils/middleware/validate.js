@@ -14,12 +14,11 @@ export const formatMessage = error => {
 const validate = ({ path = 'params', schema }) => async (req, res, next) => {
   try {
     const yupSchema = yup.object(schema);
-    console.log(req[path]);
 
-    const casted = await yupSchema.cast(req[path]);
+    await yupSchema.validate(req[path]);
     req.validData = {
       ...req.validData,
-      ...casted,
+      ...(await yupSchema.cast(req[path])),
     };
     return next();
   } catch (e) {
