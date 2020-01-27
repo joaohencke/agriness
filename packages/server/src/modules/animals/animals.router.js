@@ -1,6 +1,6 @@
 import express from 'express';
 import * as yup from 'yup';
-import validate from '../../utils/middleware/validate';
+import { validate } from '@agriness/middleware';
 import { list, put, remove, get } from './animals.manager';
 import { authenticate } from '../auth/auth.oauth';
 

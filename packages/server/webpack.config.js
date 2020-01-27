@@ -13,7 +13,7 @@ module.exports = (_, { mode }) => {
   const externals = [
     WebpackNodeExternals({
       modulesDir: path.resolve(__dirname, '../../node_modules'),
-      whitelist: [/@kiper/],
+      whitelist: [/@agriness/],
     }),
   ];
   const plugins = [

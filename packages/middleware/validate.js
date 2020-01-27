@@ -1,6 +1,6 @@
 import * as yup from 'yup';
 import boom from 'boom';
-import handler from './error.handler';
+import handler from './error';
 
 export const formatMessage = error => {
   let errMessage = `${error.message}`;

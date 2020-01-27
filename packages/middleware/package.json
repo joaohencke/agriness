@@ -1,0 +1,10 @@
+{
+  "name": "@agriness/middleware",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "yup": "^0.28.0"
+  }
+}
