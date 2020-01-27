@@ -4,7 +4,7 @@ import chalk from 'chalk';
 import mongoose from 'mongoose';
 import morgan from 'morgan';
 import { error as errorHandler } from '@agriness/middleware';
-import apis from './apis';
+import apis from '@agriness/core';
 import config from './config';
 
 const app = express();

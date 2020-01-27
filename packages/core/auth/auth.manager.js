@@ -1,8 +1,13 @@
 import AuthModel from './auth.model';
-import config from '../../config';
+
 import { getByPassword as getUserByPassword } from '../user/user.manager';
 
-const { auth } = config;
+const auth = {
+  clientId: process.env.OAUTH_CLIENT_ID || '@agriness',
+  clientSecret: process.env.OAUTH_CLIENT_SECRET || '5b65583a513923cc5db5e283cfa565ba',
+  grants: ['password', 'refresh_token'],
+};
+
 export const getClient = () => ({
   id: auth.clientId,
   client_secret: auth.clientSecret,
