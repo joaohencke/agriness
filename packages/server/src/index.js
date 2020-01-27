@@ -9,6 +9,8 @@ import config from './config';
 
 const app = express();
 
+export default app;
+
 mongoose.connect(config.mongoUri, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
