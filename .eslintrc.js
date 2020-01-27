@@ -16,7 +16,7 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: 'module',
   },
-  plugins: ['react', 'prettier'],
+  plugins: ['prettier'],
   rules: {
     'prettier/prettier': [
       'error',
@@ -38,7 +38,6 @@ module.exports = {
       },
     ],
     'jsx-a11y/label-has-associated-control': 0,
-    'react/forbid-prop-types': 0,
     'no-console': 0,
     curly: ['error', 'multi-line'],
     'prefer-const': [
@@ -49,6 +48,5 @@ module.exports = {
       },
     ],
     'no-underscore-dangle': 0,
-    'react/jsx-filename-extension': 0,
   },
 };

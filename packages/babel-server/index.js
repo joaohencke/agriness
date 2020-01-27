@@ -10,7 +10,6 @@ module.exports = {
         corejs: 3,
       },
     ],
-    '@babel/preset-react',
   ],
   plugins: [
     'babel-plugin-idx',

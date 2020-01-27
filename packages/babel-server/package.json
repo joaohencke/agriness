@@ -15,7 +15,6 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.5.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
     "@babel/preset-env": "^7.6.3",
-    "@babel/preset-react": "^7.6.3",
     "babel-plugin-idx": "^2.4.0"
   }
 }
