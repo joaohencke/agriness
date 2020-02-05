@@ -15,3 +15,9 @@ export const getByPassword = async ({ username, password }) => {
     password: undefined,
   };
 };
+
+export const create = async ({ username, password }) => {
+  const user = new UserModel({ username, password });
+
+  return user.save();
+};
