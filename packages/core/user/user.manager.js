@@ -1,7 +1,6 @@
 import boom from 'boom';
 import UserModel from './user.model';
 
-// eslint-disable-next-line
 export const getByPassword = async ({ username, password }) => {
   const user = await UserModel.findOne({ username }).select('+password');
   if (!user) throw boom.badRequest('invalid_credentials');

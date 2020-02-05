@@ -8,6 +8,33 @@ const animalsRouter = express.Router();
 
 export default animalsRouter;
 
+/**
+ * @swagger
+ * /animals:
+ *   get:
+ *     description: List animals
+ *     parameters:
+ *       - in: query
+ *         name: page
+ *         type: number
+ *         description: page to list -> 1 to (n - 1)
+ *         example: 1
+ *       - in: query
+ *         name: limit
+ *         type: number
+ *         description: size of list
+ *         example: 10
+ *       - in: query
+ *         name: query
+ *         type: string
+ *         description: query used to filter by name or locale
+ *         example: porco
+ *     responses:
+ *       '200':
+ *         description: animals list
+ *       '204':
+ *         description: no animals found
+ */
 animalsRouter.get(
   '/',
   authenticate(),

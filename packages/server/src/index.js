@@ -5,7 +5,10 @@ import mongoose from 'mongoose';
 import morgan from 'morgan';
 import { error as errorHandler } from '@agriness/middleware';
 import apis from '@agriness/core';
+import swaggerUi from 'swagger-ui-express';
+import swaggerJSDoc from 'swagger-jsdoc';
 import config from './config';
+import docs from './docs';
 
 const app = express();
 
@@ -16,10 +19,10 @@ mongoose.connect(config.mongoUri, {
   useUnifiedTopology: true,
   config: { autoIndex: true },
 });
-
 app.use(morgan('short'));
 app.use(helmet());
 app.use(express.json());
+app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerJSDoc(docs)));
 
 Object.keys(apis).forEach(path => {
   app.use(`/${path}`, apis[path]);
