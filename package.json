@@ -8,8 +8,10 @@
   ],
   "scripts": {
     "start": "concurrently -k \"yarn:start:server\" -c red",
+    "start:prod": "yarn workspace @agriness/server start:prod",
     "start:server": "yarn workspace @agriness/server start",
     "lint": "eslint --fix --ext .js packages/server",
+    "prettier": "prettier",
     "build": "lerna run build"
   },
   "lint-staged": {
