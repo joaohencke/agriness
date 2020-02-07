@@ -16,7 +16,10 @@ export const getByPassword = async ({ username, password }) => {
 };
 
 export const create = async ({ username, password }) => {
-  const user = new UserModel({ username, password });
-
-  return user.save();
+  const user = new UserModel({ username, password: await UserModel.hashPassword(password) });
+  await user.save();
+  return {
+    ...user.toObject(),
+    password: undefined,
+  };
 };
