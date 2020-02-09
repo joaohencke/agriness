@@ -12,7 +12,8 @@
     "start:server": "yarn workspace @agriness/server start",
     "lint": "eslint --fix --ext .js packages/server",
     "prettier": "prettier",
-    "build": "lerna run build"
+    "build": "lerna run build",
+    "postinstall": "node scripts/animals"
   },
   "lint-staged": {
     "*.js": [

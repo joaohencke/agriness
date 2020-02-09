@@ -19,3 +19,15 @@ If you want to run in development mode do:
 
 The server will run on [http://localhost:8888](http://localhost:8888) and the API docs will be avaiable on [/api-docs](http://localhost:8888/api-docs)
 
+The user used to login should be created manually.
+
+You can use this cURL below
+```bash
+curl --request POST \
+  --url http://localhost:8888/users \
+  --header 'content-type: application/json' \
+  --data '{
+	"username": "joaohencke",
+	"password": "123123"
+}'
+```

@@ -1,6 +1,14 @@
-import mongoose from 'mongoose';
+/* eslint-disable */
+const mongoose = require('mongoose');
+const animals = require('./animals.json');
 
-const animalSchema = new mongoose.Schema(
+mongoose.connect('mongodb://localhost:27017/agriness-test', {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  config: { autoIndex: true },
+});
+
+const animalModel = mongoose.model('animal', new mongoose.Schema(
   {
     name: {
       type: String,
@@ -30,6 +38,7 @@ const animalSchema = new mongoose.Schema(
     },
   },
   { timestamps: true },
-);
+));
 
-export default mongoose.model('animal', animalSchema);
+animalModel.insertMany(animals).then(() => console.log('done')).catch(() => console.log('problems loading db')).then(() => process.exit());
+

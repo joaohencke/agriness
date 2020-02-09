@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "0013c46a-f50f-4072-a165-f14aed3d3750",
+    "name": "SAX648",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 5",
+    "birthDate": "2017-06-29 02:53",
+    "entryDate": "2019-06-16",
+    "purchaseWeight": 98.934,
+    "breed": "ac-7077/m",
+    "trackingCode": "742B7DC9863349D2A88A9AE6AC3DDABD",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "2df78822-8eed-4741-826e-8e056fc0493c",
+    "name": "CPI834",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-07-21 00:18",
+    "entryDate": "2019-05-30",
+    "purchaseWeight": 125.056,
+    "breed": "yp-4979/d",
+    "trackingCode": "DC7FFF687B564B48850055B8C5737485",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "b504e9c3-96ca-4f54-9d5a-7674fc9f8a70",
+    "name": "IAH768",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-18 07:00",
+    "entryDate": "2019-05-29",
+    "purchaseWeight": 115.232,
+    "breed": "ui-4460/g",
+    "trackingCode": "9479412EFF3F4FC1826FCB9A8BE47E50",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "bc0d7a0d-e0b4-4008-96de-aeb670b8db45",
+    "name": "AFL876",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-22 01:54",
+    "entryDate": "2019-06-21",
+    "purchaseWeight": 118.31,
+    "breed": "pk-2645/j",
+    "trackingCode": "E7B31F4C02904EE6B155F71C45AA17FA",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "01aba464-9945-4405-82eb-57c58a61ab9c",
+    "name": "IQQ273",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-16 18:45",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 134.952,
+    "breed": "ui-4460/g",
+    "trackingCode": "2379C3718D0E43BB83D3D1554C577BB0",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "2ea87bc4-2b0b-4930-b5e7-f7130511ec97",
+    "name": "ISY854",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-26 10:48",
+    "entryDate": "2019-06-16",
+    "purchaseWeight": 124.755,
+    "breed": "cb-3114/g",
+    "trackingCode": "87D275E9D6FE45499668AA91E0A0F0C6",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "61e1b58a-9e6d-4ab4-8aed-4991194597b2",
+    "name": "NIW164",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-22 22:54",
+    "entryDate": "2019-06-15",
+    "purchaseWeight": 142.42,
+    "breed": "zm-4249/f",
+    "trackingCode": "2058C689FF804DAE84C82EFE514409D3",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "e63f073f-7e9e-45c7-ae84-054dce591393",
+    "name": "DXH634",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-06-23 02:53",
+    "entryDate": "2019-05-07",
+    "purchaseWeight": 104.052,
+    "breed": "sq-5790/s",
+    "trackingCode": "FDE4D2DB1F4E4760B7F84C85AC108CEB",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "8f529db9-8406-4f8a-ac03-46504bbf6e8f",
+    "name": "VHJ830",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-08-01 06:39",
+    "entryDate": "2019-05-21",
+    "purchaseWeight": 89.34,
+    "breed": "km-6624/b",
+    "trackingCode": "E41676E68AE3462E97A121219B0B19AC",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "4444c030-9679-48ad-a018-53e719e94206",
+    "name": "EPM336",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-18 13:16",
+    "entryDate": "2019-08-01",
+    "purchaseWeight": 131.214,
+    "breed": "os-2179/d",
+    "trackingCode": "2DE3AAA2A1C8446E956ED50B6810FAE3",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "96625880-a256-4e26-8fd9-92aefddab24b",
+    "name": "NZQ003",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-11 18:33",
+    "entryDate": "2019-07-13",
+    "purchaseWeight": 122.804,
+    "breed": "ss-2108/q",
+    "trackingCode": "691B59CFB20E429FBBF78E5EB775CBE6",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "01af2c3e-8631-4930-9495-e729aa2923fd",
+    "name": "ZLU075",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-18 07:53",
+    "entryDate": "2019-07-09",
+    "purchaseWeight": 85.606,
+    "breed": "up-6259/s",
+    "trackingCode": "7AEC2742BA4F4C3A931C36E2D0338E5B",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "ddcefe72-5092-4a50-8f4c-9599f23c90ee",
+    "name": "VBE174",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-29 06:50",
+    "entryDate": "2019-05-21",
+    "purchaseWeight": 146.813,
+    "breed": "eq-6316/e",
+    "trackingCode": "DCA6F521FD9243ACAE871C636DE6FC3F",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "79b1002d-a704-4854-b783-503f30885111",
+    "name": "ISG781",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-08-21 08:11",
+    "entryDate": "2019-06-20",
+    "purchaseWeight": 120.677,
+    "breed": "lj-5867/j",
+    "trackingCode": "7FC461C912E64790A4317EF2142EF664",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "c743ed0f-3bd5-45e3-9a94-4029b700a4b6",
+    "name": "ONU936",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-08-27 13:21",
+    "entryDate": "2019-07-09",
+    "purchaseWeight": 138.515,
+    "breed": "mc-0951/h",
+    "trackingCode": "5329ACEDBDCD4DAE8C297C54DFB99CB0",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "88c753cc-513a-466e-87f1-ab595ec2693f",
+    "name": "DTL091",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-20 12:44",
+    "entryDate": "2019-06-15",
+    "purchaseWeight": 110.281,
+    "breed": "pr-9225/p",
+    "trackingCode": "F51D30B3EF1248E9BF67BC749C40FC29",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "bac21ab4-8b0d-4d43-bf18-576df2a1a28f",
+    "name": "WZK170",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-25 04:25",
+    "entryDate": "2019-05-27",
+    "purchaseWeight": 120.067,
+    "breed": "tn-7615/s",
+    "trackingCode": "D0F51E3CF61B497B8AE39F8710962D4A",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "d01e5887-2e80-42b5-b7e2-14a0a725cdba",
+    "name": "DBW444",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-30 08:19",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 127.217,
+    "breed": "yq-1106/n",
+    "trackingCode": "D108F4AEEF1E4AA6A41E26D3E8D10205",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "17bf1dfa-96ba-44d1-97c9-deceb0a45468",
+    "name": "KED864",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-10 00:56",
+    "entryDate": "2019-07-24",
+    "purchaseWeight": 116.128,
+    "breed": "fj-0562/d",
+    "trackingCode": "1E0028FF849D4E2698682E22CEC4C3F5",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "38afcfd4-c9c1-46d5-aada-27fea01eaea8",
+    "name": "UBV974",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-14 14:39",
+    "entryDate": "2019-06-12",
+    "purchaseWeight": 87.986,
+    "breed": "rm-6681/g",
+    "trackingCode": "24FDF627541B4F4999A267489D42EE1A",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "780670b5-902c-42ac-9a5c-a3f82985f3f2",
+    "name": "IGL821",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-09 22:58",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 97.704,
+    "breed": "fj-0562/d",
+    "trackingCode": "280B085A780142E880CFC79A408EE2F3",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "7f264a49-f425-4b90-84db-38360a87dbd0",
+    "name": "GGQ707",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-12 21:24",
+    "entryDate": "2019-05-12",
+    "purchaseWeight": 88.822,
+    "breed": "jm-3826/h",
+    "trackingCode": "09D74052244849A1939802C2587396D7",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "c3bfaf89-05d8-43f0-8a95-17bebd52ac84",
+    "name": "MJB659",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-23 07:42",
+    "entryDate": "2019-06-20",
+    "purchaseWeight": 100.342,
+    "breed": "pk-2645/j",
+    "trackingCode": "47D7E9F77AA540859320B745B5E443F2",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "27520aa8-2662-4e78-9d55-2d261f27a309",
+    "name": "LQT160",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-03 12:08",
+    "entryDate": "2019-07-18",
+    "purchaseWeight": 98.539,
+    "breed": "vz-4733/c",
+    "trackingCode": "546F12286950483EBB060852779AE871",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "440e7dec-8688-40c9-945a-814d9042bf2b",
+    "name": "OBP756",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-14 04:46",
+    "entryDate": "2019-05-29",
+    "purchaseWeight": 133.1,
+    "breed": "uz-4364/r",
+    "trackingCode": "F6EA4A5293D04442AEE315CE338A0D3C",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "6ca44d00-7bd8-4c26-8f7d-fb31f096b180",
+    "name": "QGK156",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-26 23:18",
+    "entryDate": "2019-07-02",
+    "purchaseWeight": 136.618,
+    "breed": "km-6624/b",
+    "trackingCode": "CC82AA504B5D471CBE343F09E2BF6388",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "e58f23af-9158-4513-b724-d1395ec5ea83",
+    "name": "TZH341",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-10 05:00",
+    "entryDate": "2019-07-11",
+    "purchaseWeight": 133.102,
+    "breed": "ac-7077/m",
+    "trackingCode": "82EC04157E534C939DFA6A8F4405B215",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "ccbded00-dd48-4ffa-a3af-8e9926b3eefb",
+    "name": "TAZ759",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-04 11:23",
+    "entryDate": "2019-06-16",
+    "purchaseWeight": 120.551,
+    "breed": "yr-6653/s",
+    "trackingCode": "C1337A2650FD4F51862ED2BC72EF4664",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "02266c0c-41a6-4c74-b4ac-a64a27eba565",
+    "name": "DMP652",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-08-28 14:37",
+    "entryDate": "2019-07-03",
+    "purchaseWeight": 113.947,
+    "breed": "je-7121/b",
+    "trackingCode": "1332FD7FA6CA4332860A30AB7FA750D2",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "349026e6-a6ed-4432-a62f-057023ae6f74",
+    "name": "HYT639",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-08-29 18:54",
+    "entryDate": "2019-06-01",
+    "purchaseWeight": 92.57,
+    "breed": "dg-3791/e",
+    "trackingCode": "0832546D3D81451B9D6411418B7751B8",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "0959eab3-bea0-4abb-ae8a-4c8e6451ddf4",
+    "name": "LVL688",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-02 02:59",
+    "entryDate": "2019-06-16",
+    "purchaseWeight": 139.629,
+    "breed": "jm-3826/h",
+    "trackingCode": "B7AA116080B7412DA074992A146B6800",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "efaaf854-4143-4763-bef0-4f67fc4aa38f",
+    "name": "PTM883",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-08-17 18:25",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 86.292,
+    "breed": "bz-7753/h",
+    "trackingCode": "8FAF2442C91F4B6AAA970F92725EDB2C",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "b3a493d2-f9c4-4412-94af-5514fc5f4fdf",
+    "name": "AOB751",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-02 06:21",
+    "entryDate": "2019-07-14",
+    "purchaseWeight": 92.605,
+    "breed": "qj-3317/x",
+    "trackingCode": "16A2D5FAD0D145A9BA1B530CD14F9059",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "afb467c4-45b6-43db-a4ca-97406e80ddd9",
+    "name": "DFT841",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-24 10:09",
+    "entryDate": "2019-07-06",
+    "purchaseWeight": 137.869,
+    "breed": "sq-5790/s",
+    "trackingCode": "233FA20A97E44699B8AF1B566A69DDB9",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "65bd430d-4145-4bde-8a37-d308e6b5239b",
+    "name": "VDG972",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-26 22:50",
+    "entryDate": "2019-07-01",
+    "purchaseWeight": 123.276,
+    "breed": "fq-9627/b",
+    "trackingCode": "426B6AFA8B2749D1996CDD7649DFCEEE",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "7a1f5089-5f08-45bf-aee5-a89f1278b929",
+    "name": "NYL753",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-16 06:40",
+    "entryDate": "2019-05-31",
+    "purchaseWeight": 99.276,
+    "breed": "rm-6681/g",
+    "trackingCode": "AC93A50AFE5C4940AAE7A1AE41081C0B",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "aa60e4c8-ea71-46ba-86f8-5f63f9549fbf",
+    "name": "OQI483",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-16 17:13",
+    "entryDate": "2019-06-18",
+    "purchaseWeight": 113.66,
+    "breed": "qx-3134/b",
+    "trackingCode": "87F26FAFE4BA4C7699B5EFDEEBBF26E8",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "5556bde6-7983-41e5-9e65-20a92fe17bfd",
+    "name": "GBC835",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-15 12:33",
+    "entryDate": "2019-06-12",
+    "purchaseWeight": 134.277,
+    "breed": "qx-3134/b",
+    "trackingCode": "95BF5312756B4A60A15F5E667F2AACB1",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "0bfe91f8-e175-44d7-afab-8344460331bd",
+    "name": "SAN086",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-08-23 01:41",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 132.159,
+    "breed": "bd-2931/w",
+    "trackingCode": "6AAADA54A45148B49E65F578ABF7C32E",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "e5d9b604-1da6-44e6-801f-458856c14f47",
+    "name": "NEF046",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-24 03:12",
+    "entryDate": "2019-06-04",
+    "purchaseWeight": 133.691,
+    "breed": "lg-4519/r",
+    "trackingCode": "FC8B8F1FEDBE4EA899577D1972C32DE8",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "0dda2f32-d817-490d-a7fa-e10b12b78428",
+    "name": "JMI844",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-25 23:58",
+    "entryDate": "2019-07-29",
+    "purchaseWeight": 88.165,
+    "breed": "ii-8860/d",
+    "trackingCode": "B11F67294D5C4B46A146E0ED949035D0",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "34908faf-8f00-4cc0-88f4-761b1dbb290b",
+    "name": "WMO856",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-17 17:33",
+    "entryDate": "2019-05-25",
+    "purchaseWeight": 101.023,
+    "breed": "yp-4979/d",
+    "trackingCode": "59DED2D1E2B842DBA78CF47DA90B908B",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "02e2ea6d-7c08-4123-bd09-ea8f25b5e684",
+    "name": "GLH549",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-04 19:32",
+    "entryDate": "2019-07-11",
+    "purchaseWeight": 130.666,
+    "breed": "lg-4519/r",
+    "trackingCode": "85A6EC3A03094E83ACBF79E72B220B88",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "7844eda3-269a-42e9-9dc5-e11f335b363c",
+    "name": "SHK131",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-18 05:03",
+    "entryDate": "2019-05-12",
+    "purchaseWeight": 118.098,
+    "breed": "bd-2931/w",
+    "trackingCode": "6B179D1F34594EF79E153422FA94E55D",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "0884c1e7-9f13-42a8-a3e9-327e9e38de23",
+    "name": "EGQ162",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-01 17:06",
+    "entryDate": "2019-05-19",
+    "purchaseWeight": 116.075,
+    "breed": "lj-3933/k",
+    "trackingCode": "D7B914CE56C94205881F6729D9056520",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "45dab3d8-c3b8-4cac-8678-431425b0b246",
+    "name": "GTL089",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-07 14:45",
+    "entryDate": "2019-05-15",
+    "purchaseWeight": 146.586,
+    "breed": "wt-7607/j",
+    "trackingCode": "B3ADA5827B654EC98DA3AEF00B6AB854",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "5d9b4e12-7354-4a15-b2d2-f6ef6f9e0ce8",
+    "name": "AOP648",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-08 22:01",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 141.266,
+    "breed": "mq-2872/w",
+    "trackingCode": "7B22439E9DD94C369855EED68994123E",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "c90e681f-f182-4c91-9bc4-307f9521e6bb",
+    "name": "PXI078",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-09 14:20",
+    "entryDate": "2019-06-04",
+    "purchaseWeight": 129.043,
+    "breed": "qj-3317/x",
+    "trackingCode": "DA67829416D3478E97F52EDD57BD7C8C",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "2076106a-be5a-4b98-a35c-1090d4df4e89",
+    "name": "EUM537",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-07-17 09:11",
+    "entryDate": "2019-05-12",
+    "purchaseWeight": 133.657,
+    "breed": "lg-4519/r",
+    "trackingCode": "7A7DE516940B49309285CC7013486CB9",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "d8e25d85-88c8-421f-86fb-881b71ba0e02",
+    "name": "BHB024",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-30 08:06",
+    "entryDate": "2019-05-25",
+    "purchaseWeight": 103.043,
+    "breed": "qj-3317/x",
+    "trackingCode": "51BFAB14B43141FDB97AEEFDBDB518FD",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "8550a554-ca9e-4d2d-948d-1e7223902473",
+    "name": "DXY901",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-21 04:07",
+    "entryDate": "2019-06-15",
+    "purchaseWeight": 123.511,
+    "breed": "uz-4364/r",
+    "trackingCode": "8CB01B69D53043DF902DD90FBFEBA5AD",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "c34acdad-509b-4247-b54d-56d16452c760",
+    "name": "POM518",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-29 20:09",
+    "entryDate": "2019-05-13",
+    "purchaseWeight": 114.152,
+    "breed": "xy-8150/x",
+    "trackingCode": "57A9AF6A810545578EF597C6C790496D",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "ef3154f9-a3a7-4c69-a9b9-cfa422132a31",
+    "name": "YIX765",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-15 00:57",
+    "entryDate": "2019-07-19",
+    "purchaseWeight": 108.587,
+    "breed": "yp-4979/d",
+    "trackingCode": "3733CE8955A747E7AB56C7F9399881C3",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "9103a38b-9027-4517-956c-5f95901f15f2",
+    "name": "UEF893",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-06-13 08:04",
+    "entryDate": "2019-05-22",
+    "purchaseWeight": 131.229,
+    "breed": "jm-3826/h",
+    "trackingCode": "D24662C842B24370A7D37653D3B40C20",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "1c3aafa5-6b30-40a9-9380-f32cb13b109a",
+    "name": "SMF548",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-15 22:52",
+    "entryDate": "2019-05-26",
+    "purchaseWeight": 144.756,
+    "breed": "up-6259/s",
+    "trackingCode": "7AF284C10DA1495683E4773EF6648B9F",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "0370929c-393f-4df9-a34f-9a6c9e213cf0",
+    "name": "ISQ564",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-07-02 21:09",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 110.401,
+    "breed": "bo-7821/y",
+    "trackingCode": "A6851A65841E4F9A947E5AB3FFCA6A08",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "2ceb83fe-e4b2-4495-89dd-31adb2999274",
+    "name": "HTX103",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-11 08:50",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 133.665,
+    "breed": "tn-7615/s",
+    "trackingCode": "27BB7133E8B447A797BD88B245138764",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "f77f8fd1-e590-4e80-a8ea-9c07dac79167",
+    "name": "SCF458",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-28 01:54",
+    "entryDate": "2019-07-20",
+    "purchaseWeight": 106.765,
+    "breed": "wm-8643/q",
+    "trackingCode": "9118764FEF05489D94BD7F0870C2A101",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "86e85352-363f-46ec-a74d-f08ae74b475e",
+    "name": "ZSJ192",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-07 02:39",
+    "entryDate": "2019-07-05",
+    "purchaseWeight": 131.447,
+    "breed": "qv-3865/j",
+    "trackingCode": "6970574C61EA44D6B90BE2DBC374883E",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "ae7bbeea-4548-4b8e-af82-1284d4f30bf3",
+    "name": "NUA814",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-11 03:06",
+    "entryDate": "2019-05-31",
+    "purchaseWeight": 109.722,
+    "breed": "vb-9971/c",
+    "trackingCode": "2309FFC855694803A1F239F6901A56BB",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "7a2ec8ec-7bbb-40c3-ac46-0286a0194941",
+    "name": "IRH157",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-06-04 02:56",
+    "entryDate": "2019-07-22",
+    "purchaseWeight": 92.387,
+    "breed": "up-6259/s",
+    "trackingCode": "5B894A7C9D47420BA6C489560022CBDB",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "9eb46a9f-9651-4a96-bb7f-0e91fac923dc",
+    "name": "MNA699",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-20 21:04",
+    "entryDate": "2019-07-31",
+    "purchaseWeight": 145.521,
+    "breed": "dg-3791/e",
+    "trackingCode": "5C6236D48842438791895122EB5F0F4C",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "5f380f8b-7499-4bb9-82ba-146440c962d2",
+    "name": "UQW308",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-09 19:18",
+    "entryDate": "2019-07-09",
+    "purchaseWeight": 99.814,
+    "breed": "ii-8860/d",
+    "trackingCode": "D87AA91EC6CD49F8AAE727BBC4E0FA20",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "e67d2f85-e648-4cd4-bcf7-62f74f62434d",
+    "name": "YOW411",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-07 01:48",
+    "entryDate": "2019-05-19",
+    "purchaseWeight": 102.142,
+    "breed": "cj-1447/x",
+    "trackingCode": "E62AC7A17E234FA781338F878573A09D",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "4c7091a7-a745-46e8-b3cc-682f8c5cb3a5",
+    "name": "FDZ771",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-13 07:26",
+    "entryDate": "2019-05-10",
+    "purchaseWeight": 128.968,
+    "breed": "an-6078/w",
+    "trackingCode": "F757D0E28BA2430DBDBED514F637B469",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "c03cd82e-47ed-49eb-a647-1d88af2dc5c3",
+    "name": "AXB814",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-14 02:59",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 133.909,
+    "breed": "vb-9971/c",
+    "trackingCode": "3AFE4A9FC21F48A8BDEC945DA82FE5BF",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "bdf61aec-a199-418d-a6bc-bf5a093b7335",
+    "name": "HVK113",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-27 22:00",
+    "entryDate": "2019-07-12",
+    "purchaseWeight": 149.177,
+    "breed": "vb-9971/c",
+    "trackingCode": "0DCAE43EA420408DB2B16A717AEF739D",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "68bfe880-85b6-4e3f-96f6-a7440b9d23c9",
+    "name": "LNL860",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-16 07:53",
+    "entryDate": "2019-06-04",
+    "purchaseWeight": 99.768,
+    "breed": "pr-9225/p",
+    "trackingCode": "6E895F114C4F4DD6B813BAC30A642C53",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "36ff9be3-d464-47f7-96f8-c03de17244ae",
+    "name": "MIO190",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-08-20 13:17",
+    "entryDate": "2019-07-16",
+    "purchaseWeight": 141.512,
+    "breed": "rk-0525/i",
+    "trackingCode": "0B2AFD9670194742A2D8CB90CB3A77D3",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "4a60f5b1-f9c5-48fb-bb27-10389e15b843",
+    "name": "OTQ880",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-07-22 00:11",
+    "entryDate": "2019-05-26",
+    "purchaseWeight": 147.493,
+    "breed": "wm-8643/q",
+    "trackingCode": "C3170021D98947C1B1F96A7E12E2BAE9",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "e4c8dffc-7d48-4ee0-9c3f-ee3966bf2f7c",
+    "name": "ZFG986",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-19 22:35",
+    "entryDate": "2019-06-26",
+    "purchaseWeight": 124.162,
+    "breed": "up-8831/s",
+    "trackingCode": "F1272B243F4E4E1E89218B1271167285",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "505c1e38-6747-42dc-9336-92b01dee52a6",
+    "name": "UQT843",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-07-17 08:18",
+    "entryDate": "2019-07-17",
+    "purchaseWeight": 122.484,
+    "breed": "cb-3114/g",
+    "trackingCode": "792361625C6940E4867CE49AA1FB734E",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "9d49d664-b1e9-450c-8a44-034a31b81f36",
+    "name": "QRB507",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-29 05:39",
+    "entryDate": "2019-07-13",
+    "purchaseWeight": 142.275,
+    "breed": "pk-2645/j",
+    "trackingCode": "558336FDD39E4AF3A2FD9E127775174B",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "b22d7fd3-afe7-4158-98a5-4db2e00d7e9a",
+    "name": "RTJ179",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-13 06:48",
+    "entryDate": "2019-06-08",
+    "purchaseWeight": 113.888,
+    "breed": "pk-2645/j",
+    "trackingCode": "4742F403C85C4B949BF243DBF65B5E39",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "90565c68-47db-4003-a8cb-7c36fcf0a541",
+    "name": "TOX557",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-09 03:15",
+    "entryDate": "2019-05-07",
+    "purchaseWeight": 86.683,
+    "breed": "uz-4364/r",
+    "trackingCode": "23C27EF8CEFF4055B48A249A50C0FE32",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "6365d48c-f862-4ebb-9119-a04b3788ed72",
+    "name": "XVG473",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-08-20 11:55",
+    "entryDate": "2019-06-04",
+    "purchaseWeight": 95.398,
+    "breed": "rl-9900/c",
+    "trackingCode": "36C7C2F869AF4D29BBA53DA8790F2869",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "842c2c93-6cbc-4405-80cb-436171513923",
+    "name": "EVF354",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-09 07:45",
+    "entryDate": "2019-06-02",
+    "purchaseWeight": 119.836,
+    "breed": "yq-1106/n",
+    "trackingCode": "4E3BA254955C4218989A1AECE5BE4DCC",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "2b7f9267-699f-48e6-8918-b95be97fce31",
+    "name": "CZG015",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-24 06:47",
+    "entryDate": "2019-07-07",
+    "purchaseWeight": 142.693,
+    "breed": "km-6624/b",
+    "trackingCode": "63FBAB26A3EA4AA3858B0C63BFBDF9DD",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "2f99e4a2-0f4c-4ff1-8ed0-76a0dc347da5",
+    "name": "SIC535",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-08-13 07:09",
+    "entryDate": "2019-07-11",
+    "purchaseWeight": 111.927,
+    "breed": "tn-7615/s",
+    "trackingCode": "3D7B502D36514E419D7211B3BA495FCF",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "b6eef029-437a-42d4-8a97-f778ac1b0552",
+    "name": "TPA654",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-21 17:54",
+    "entryDate": "2019-06-29",
+    "purchaseWeight": 106.716,
+    "breed": "ul-6276/j",
+    "trackingCode": "87E01FB7BED04B0DB69E867BD2B46C44",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "310b9e07-8e30-4020-933e-bcfadc741123",
+    "name": "RQK187",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-09 11:18",
+    "entryDate": "2019-06-01",
+    "purchaseWeight": 149.54,
+    "breed": "yr-6653/s",
+    "trackingCode": "39FA8E5158D94F7F9FDB1DD3A3313B5E",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "03f7d92a-9b13-4c3d-8413-d55ffbe1a57a",
+    "name": "FPM085",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-07 13:33",
+    "entryDate": "2019-05-19",
+    "purchaseWeight": 106.344,
+    "breed": "qv-3865/j",
+    "trackingCode": "2BAB9DB59F404F039535C4327EA9F001",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "797fbba6-0cbf-475d-ac3b-7b129f57b0e9",
+    "name": "KDD884",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-26 13:29",
+    "entryDate": "2019-07-26",
+    "purchaseWeight": 93.395,
+    "breed": "pk-5598/b",
+    "trackingCode": "9681940E615B4B88A14EBF4721A0E408",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "902b35b5-04d3-471d-9b90-0b3231d1baa3",
+    "name": "TVS673",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-28 14:28",
+    "entryDate": "2019-05-23",
+    "purchaseWeight": 97.039,
+    "breed": "ss-2108/q",
+    "trackingCode": "4CB36F29F58646A881A6785A7C521C34",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "81d119f0-8b62-4c64-80f5-3c465432d66c",
+    "name": "IUC881",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-26 19:48",
+    "entryDate": "2019-07-05",
+    "purchaseWeight": 134.111,
+    "breed": "rk-0525/i",
+    "trackingCode": "AEAFDBD1115E4CCDB801570CB3971D58",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "d7cb1390-da12-4230-9add-8d0a14bbd47c",
+    "name": "HTN991",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-10 10:30",
+    "entryDate": "2019-05-21",
+    "purchaseWeight": 128.912,
+    "breed": "on-5349/r",
+    "trackingCode": "87F6C6BE2A87403F87CFDC96D365C201",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "f19275ae-c0dc-472b-8da9-6877888c28dc",
+    "name": "QNA084",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-06-11 10:44",
+    "entryDate": "2019-06-28",
+    "purchaseWeight": 120.999,
+    "breed": "yw-4458/i",
+    "trackingCode": "A881F585BEFE40F5B917F5703156C5F9",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "fa16f60c-c840-44ca-ad81-5e9f3aa0f2ab",
+    "name": "RDN487",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-25 00:08",
+    "entryDate": "2019-06-02",
+    "purchaseWeight": 136.763,
+    "breed": "mc-0951/h",
+    "trackingCode": "8CDEB23D11214AC4A59F2BAC7AC22AFA",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "bdcf0af3-27e8-48ed-b111-4f5baaa8b2e6",
+    "name": "VSN614",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-30 10:12",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 145.43,
+    "breed": "bz-7753/h",
+    "trackingCode": "8373789E1F934735BC790F26A8970349",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "13af9855-8bbb-4e4a-929e-04bc0b82c254",
+    "name": "CRK614",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-10 23:31",
+    "entryDate": "2019-05-30",
+    "purchaseWeight": 101.611,
+    "breed": "oq-1622/b",
+    "trackingCode": "1273B867C11F4B6E97AD955A708823E0",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "d8468c82-6106-44e1-9e55-3620e9791082",
+    "name": "KOS678",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-13 07:03",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 148.892,
+    "breed": "ul-6276/j",
+    "trackingCode": "4FD6325A28A64F8DABD0785C18960445",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "97889423-6416-491f-b5c5-12cbf7714d8e",
+    "name": "RAM175",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-08-03 04:50",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 136.852,
+    "breed": "lj-5867/j",
+    "trackingCode": "1F8D3EA1FEAC48BFB0EDC70A06C6F0E6",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "0b69ba25-fa81-486a-a776-cf16bba9ea0e",
+    "name": "KUW464",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-08-12 18:32",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 109.95,
+    "breed": "wt-7607/j",
+    "trackingCode": "5000FAA9AB104FCFAB5D416B45FFD30A",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "82f477b8-7957-46c0-8bc7-9d16edf63a5e",
+    "name": "BLZ426",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-08-24 02:04",
+    "entryDate": "2019-07-12",
+    "purchaseWeight": 120.156,
+    "breed": "lj-3933/k",
+    "trackingCode": "B0BC5E00626F4874938038A472B7CF90",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "fbab9881-6203-454d-953d-24a7581e7e56",
+    "name": "QUS714",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-08 15:03",
+    "entryDate": "2019-06-26",
+    "purchaseWeight": 140.125,
+    "breed": "yw-4458/i",
+    "trackingCode": "8DAD9C4B87564E85841EDBAEAA800A8B",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "8180455e-e623-4bb9-8fc3-430475ceecc8",
+    "name": "BSI244",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-13 13:55",
+    "entryDate": "2019-05-29",
+    "purchaseWeight": 149.375,
+    "breed": "yq-1106/n",
+    "trackingCode": "A946437D9D804CD2B8114875920BC50F",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "2f13a736-74e4-4b7a-8f6e-cebd58947725",
+    "name": "RKC474",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-22 01:38",
+    "entryDate": "2019-07-06",
+    "purchaseWeight": 136.359,
+    "breed": "em-5235/r",
+    "trackingCode": "D6DAF08420CF4ECE979C586690AE7FF1",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "ee4745fa-eaf0-494e-9427-8205268a15d7",
+    "name": "PNU547",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-07 14:25",
+    "entryDate": "2019-06-17",
+    "purchaseWeight": 149.976,
+    "breed": "qv-3865/j",
+    "trackingCode": "68D9BBC1C6A6495AA6215246DAA16CB2",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "3a92f74c-2ac6-400f-8f26-d7fb04b8d918",
+    "name": "HED639",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-08-14 13:38",
+    "entryDate": "2019-06-06",
+    "purchaseWeight": 136.718,
+    "breed": "mq-2872/w",
+    "trackingCode": "03553B65834545E2B080334A8C4B597B",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "8658be05-5133-48a2-860d-81f5bf991c5a",
+    "name": "IGZ858",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-21 07:02",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 117.214,
+    "breed": "fq-9627/b",
+    "trackingCode": "6A574DDD967E4F4193233BFFDEA59449",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "41d7a96a-61cc-4b79-bb1a-586eac583474",
+    "name": "LNR474",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-17 21:20",
+    "entryDate": "2019-06-05",
+    "purchaseWeight": 136.444,
+    "breed": "yr-6653/s",
+    "trackingCode": "4FE3C6406BE349A5847EA6C092BCDB5D",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "fb76d865-abbd-415e-b8ac-1fca5511938a",
+    "name": "YJX513",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-22 14:32",
+    "entryDate": "2019-05-20",
+    "purchaseWeight": 142.747,
+    "breed": "mq-2872/w",
+    "trackingCode": "C501CF7A02C8477B95F0EE3F37462849",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "4d818fa2-2c3b-4912-932c-5fe990f8e936",
+    "name": "TDO390",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-11 01:16",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 139.682,
+    "breed": "up-6259/s",
+    "trackingCode": "D65FFF2B389943458FA3D7F98FC8FDAD",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "acdc2af1-48f2-468f-8a1f-ee3457372f99",
+    "name": "OFY257",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-14 03:22",
+    "entryDate": "2019-05-24",
+    "purchaseWeight": 124.205,
+    "breed": "rm-6681/g",
+    "trackingCode": "81CF4B91659D42E99943B85631D65399",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "6fc1a850-64dc-453f-a14b-9cb546f58210",
+    "name": "UYV102",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-28 15:00",
+    "entryDate": "2019-07-25",
+    "purchaseWeight": 119.943,
+    "breed": "rm-6681/g",
+    "trackingCode": "DDC2047C6B064732B4599269F7AEE819",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "2baf31aa-d581-4c74-9f42-d83b03241bb4",
+    "name": "EEP524",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-05 06:06",
+    "entryDate": "2019-05-17",
+    "purchaseWeight": 99.962,
+    "breed": "rk-0525/i",
+    "trackingCode": "DE1C9E07E75145BBA16840FC3ED357FE",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "a2b72923-b3ee-4062-94cd-c775f786135e",
+    "name": "DRU864",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-06 22:20",
+    "entryDate": "2019-05-14",
+    "purchaseWeight": 121.905,
+    "breed": "uz-7627/x",
+    "trackingCode": "FC3780FC4805460C9E92247C05F21AE1",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "693c6d67-c1e7-4667-a0ca-b42fb00864b8",
+    "name": "LMC342",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-22 15:33",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 97.331,
+    "breed": "pr-9225/p",
+    "trackingCode": "15A7AE858E54474E98C5FF77AA475BAD",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "d76a1e14-ff2c-43e3-8d33-0bf05edad301",
+    "name": "WXY356",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-12 15:18",
+    "entryDate": "2019-06-25",
+    "purchaseWeight": 131.254,
+    "breed": "mq-2872/w",
+    "trackingCode": "328514C314D04992AC8BD61DE5A26259",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "c6fc2b7a-93c6-4cb7-a83a-b76cc481f8ad",
+    "name": "UIC539",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-02 21:01",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 113.006,
+    "breed": "qx-3134/b",
+    "trackingCode": "F9F6E69F4FE942AEABAE49A36CA732E0",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "99feba00-7bd8-446d-9c21-4dc8955cf348",
+    "name": "AOQ244",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-30 05:01",
+    "entryDate": "2019-07-18",
+    "purchaseWeight": 123.076,
+    "breed": "tw-2550/e",
+    "trackingCode": "9FE514399A5C4CD68E60650CDFA8830C",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "50b8dc56-6b26-46d3-8be5-fdaac7499f1e",
+    "name": "FCV020",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-07-17 00:26",
+    "entryDate": "2019-07-03",
+    "purchaseWeight": 142.286,
+    "breed": "lg-4519/r",
+    "trackingCode": "452756B45DBD43FCA854861A05FFD46E",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "4f64177c-2291-418a-b2da-c3996ae844a8",
+    "name": "OAM576",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-02 12:23",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 133.375,
+    "breed": "wt-7607/j",
+    "trackingCode": "8F6D1A26F3F14215A1BEE522C0975F16",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "5d4609b6-877f-4acb-b7ab-29d46073e46e",
+    "name": "OUK658",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-07-28 15:50",
+    "entryDate": "2019-07-02",
+    "purchaseWeight": 121.983,
+    "breed": "dg-3791/e",
+    "trackingCode": "AEDB42F4516D4C41B76F3B52C13635E2",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "2a11fe79-a74c-48f7-ac34-18a0aa981e01",
+    "name": "TPJ458",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-28 19:57",
+    "entryDate": "2019-06-22",
+    "purchaseWeight": 143.897,
+    "breed": "pk-2645/j",
+    "trackingCode": "8329B37006B64749814E540E0F3FD9D7",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "5fa320e3-1a7e-45c5-9d67-98bc656ade19",
+    "name": "CQA365",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-03 16:01",
+    "entryDate": "2019-06-10",
+    "purchaseWeight": 102.446,
+    "breed": "jm-3826/h",
+    "trackingCode": "0492FB530F1B45ED864DA87BDB56DCB2",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "ee2ef662-7832-464a-9dcf-8d81747187b0",
+    "name": "HWA897",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-19 02:15",
+    "entryDate": "2019-06-11",
+    "purchaseWeight": 109.608,
+    "breed": "fj-0562/d",
+    "trackingCode": "756D65B324F145688A0F8509F65F6FA8",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "f38f8497-5ed7-41e0-b01f-7cc8993f269f",
+    "name": "LJC368",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-08-21 02:29",
+    "entryDate": "2019-05-06",
+    "purchaseWeight": 120.772,
+    "breed": "dg-3791/e",
+    "trackingCode": "5F64F56BD85E4606841D85794F82E5F2",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "40690078-0df3-4f2a-9a46-24363585c9c5",
+    "name": "AJM661",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-24 14:00",
+    "entryDate": "2019-06-24",
+    "purchaseWeight": 131.102,
+    "breed": "bd-2931/w",
+    "trackingCode": "B6CEA80D0B194B209BB968C7CA6B0E60",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "a5203222-f618-4f4f-bdd3-b10fc663c46a",
+    "name": "GXO229",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-27 08:03",
+    "entryDate": "2019-07-20",
+    "purchaseWeight": 130.751,
+    "breed": "ul-6276/j",
+    "trackingCode": "13EDF0258FA94A98900E915FEB89461D",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "a499e98f-30d9-4311-8867-ef4717247487",
+    "name": "ZQQ959",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-07-08 10:13",
+    "entryDate": "2019-07-02",
+    "purchaseWeight": 133.607,
+    "breed": "ai-1498/q",
+    "trackingCode": "0459A093C0B9423FB55E72B2357D3C5A",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "a8937c08-f4e9-49a7-a8f0-aa378c2f29e5",
+    "name": "TVN016",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-07 21:36",
+    "entryDate": "2019-06-07",
+    "purchaseWeight": 132.808,
+    "breed": "bo-7821/y",
+    "trackingCode": "DB3437B6DD284F1AA10FA353EB2B836A",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "e9be8acc-b13f-4111-b19e-ed727eb97729",
+    "name": "CCP165",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-08-17 09:07",
+    "entryDate": "2019-06-11",
+    "purchaseWeight": 129.795,
+    "breed": "on-5349/r",
+    "trackingCode": "23432F7EAC7E40FA96F9490F762E3539",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "fb065af2-28c7-4409-82ff-c21f3afef080",
+    "name": "YZI651",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-18 21:41",
+    "entryDate": "2019-05-13",
+    "purchaseWeight": 131.357,
+    "breed": "bd-2931/w",
+    "trackingCode": "372D3AEA53724C06BD311FC40BE919ED",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "d506ff70-5e29-4183-9626-7a428b267615",
+    "name": "BGF187",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-11 21:21",
+    "entryDate": "2019-06-12",
+    "purchaseWeight": 107.023,
+    "breed": "bo-7821/y",
+    "trackingCode": "1826778EB0AD4597A2EB4DE721263A2A",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "ed95d0dc-dd1e-4e2b-9b07-df64060ccc40",
+    "name": "FGD352",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-01 15:21",
+    "entryDate": "2019-06-20",
+    "purchaseWeight": 129.94,
+    "breed": "ii-8860/d",
+    "trackingCode": "B21F94DE50384FE6AA2FCBE6A566CCFD",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "92025b38-5cb9-4dca-8af0-108c2532696a",
+    "name": "UHF741",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-07 22:07",
+    "entryDate": "2019-05-21",
+    "purchaseWeight": 117.127,
+    "breed": "pk-0089/d",
+    "trackingCode": "DC91C95D427F4EEAAB0745F84654C68E",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "9dfb2471-da35-4c1b-94b9-481880559217",
+    "name": "PCV360",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-07-15 04:36",
+    "entryDate": "2019-06-01",
+    "purchaseWeight": 129.97,
+    "breed": "yw-4458/i",
+    "trackingCode": "4AA9D40B24CB495EB857EFC9BBA64EB0",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "aa274491-e052-4e4e-bff3-888b8eacb970",
+    "name": "PSQ835",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-08-16 18:50",
+    "entryDate": "2019-06-19",
+    "purchaseWeight": 89.899,
+    "breed": "fq-9627/b",
+    "trackingCode": "DAFD47E8E2FC4659A088130D2412FCBD",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "2a2a2797-1826-4454-b5e3-d60f8ebaea88",
+    "name": "VEZ728",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-07-11 00:28",
+    "entryDate": "2019-05-04",
+    "purchaseWeight": 88.593,
+    "breed": "qx-3134/b",
+    "trackingCode": "99A2CA0DB962494B861D380F93DA213B",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "703741bb-24a3-4153-b0be-ada70dfb0ad4",
+    "name": "IYE371",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-10 12:20",
+    "entryDate": "2019-05-29",
+    "purchaseWeight": 145.485,
+    "breed": "cj-1447/x",
+    "trackingCode": "37AF2B1798944521ACB23E54B7EC4BEF",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "58c0be5d-88c4-462f-a548-ea1329590b09",
+    "name": "BUZ474",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-07-28 08:47",
+    "entryDate": "2019-07-22",
+    "purchaseWeight": 139.634,
+    "breed": "ga-1011/o",
+    "trackingCode": "11F021D5E9164A8BB088C78C525CC004",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "b332591d-fc27-497a-a18c-e52f4ce72d90",
+    "name": "SPD391",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-30 22:09",
+    "entryDate": "2019-07-31",
+    "purchaseWeight": 118.242,
+    "breed": "jm-3826/h",
+    "trackingCode": "D6D251581DE545BB944CB10FD26E270D",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "6ab8f368-26b2-4528-ba2f-4999a0490ae1",
+    "name": "LDQ016",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-21 22:52",
+    "entryDate": "2019-05-04",
+    "purchaseWeight": 129.307,
+    "breed": "vz-4733/c",
+    "trackingCode": "210D2FCEA9104FFAADE58C1E696DF31E",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "28125add-0ca3-4e45-af14-5b94971cdee7",
+    "name": "MNZ044",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-19 08:52",
+    "entryDate": "2019-05-18",
+    "purchaseWeight": 124.441,
+    "breed": "pr-9225/p",
+    "trackingCode": "37BDFE2D66814643A8FE26F974528B81",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "2f865077-7f38-4a25-8b49-263929e4af94",
+    "name": "QXQ698",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-13 08:38",
+    "entryDate": "2019-07-08",
+    "purchaseWeight": 104.816,
+    "breed": "su-4773/g",
+    "trackingCode": "696F49521D124F5B803F2BC9F6666034",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "fd120bbe-387a-491d-b983-656d4c05b0c2",
+    "name": "USE903",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-04 21:42",
+    "entryDate": "2019-05-12",
+    "purchaseWeight": 136.279,
+    "breed": "dg-3791/e",
+    "trackingCode": "4F77F3FE83D5446D9A45EDA0C62078B3",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "ea1b5ba9-ed29-4c3b-9e39-9b4f39ec5417",
+    "name": "XCD461",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-07-11 14:26",
+    "entryDate": "2019-05-17",
+    "purchaseWeight": 114.839,
+    "breed": "cj-1447/x",
+    "trackingCode": "B6796EF5E47949BF96E7748F3B761E60",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "32202689-f399-468b-abd0-7ac5745bedcf",
+    "name": "PBT588",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-15 01:56",
+    "entryDate": "2019-05-05",
+    "purchaseWeight": 107.443,
+    "breed": "up-6259/s",
+    "trackingCode": "246951E613BD4CAE9572C4DB0849AFA1",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "902f5ecd-82e7-4d34-8ad5-821199b75941",
+    "name": "OFZ978",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-08-22 14:42",
+    "entryDate": "2019-05-23",
+    "purchaseWeight": 122.479,
+    "breed": "uz-7627/x",
+    "trackingCode": "FC64E5D10E3F4CD79BE03A2255636A29",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "c38d7979-312f-4500-bfe0-5c91d12231e5",
+    "name": "KZH847",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-08 07:15",
+    "entryDate": "2019-06-10",
+    "purchaseWeight": 98.346,
+    "breed": "em-5235/r",
+    "trackingCode": "320E35F7C84949CB8877F3ABD16F9465",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "3fb196bf-8644-46d7-b28e-44fdea93ff1e",
+    "name": "UOY795",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-08-14 02:53",
+    "entryDate": "2019-07-07",
+    "purchaseWeight": 146.708,
+    "breed": "sq-5790/s",
+    "trackingCode": "9CD14B414ED64376AEFBDAB42411EF49",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "2239ed7f-14dd-49e0-a45c-0eae8095afcf",
+    "name": "MXW913",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-08-22 07:29",
+    "entryDate": "2019-06-08",
+    "purchaseWeight": 87.874,
+    "breed": "tj-7839/t",
+    "trackingCode": "0CE03360608B46F682B3602CEABC2D68",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "3ce9216a-a764-4a71-a5f6-c9677335c0c9",
+    "name": "NSF602",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-08-08 09:18",
+    "entryDate": "2019-06-27",
+    "purchaseWeight": 118.907,
+    "breed": "yp-4979/d",
+    "trackingCode": "4F2E4FED22EB4071963689B2B4C9C3A0",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "57b02c0f-ee47-4ed2-a48e-96e28fe88bd0",
+    "name": "EMI117",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-14 19:45",
+    "entryDate": "2019-05-08",
+    "purchaseWeight": 136.771,
+    "breed": "uz-4364/r",
+    "trackingCode": "D6FCCD7EC8D240C0B84884148EC9FEE2",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "eaa99177-e888-47fe-86e0-5e9b7be36d0a",
+    "name": "DPP591",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-08 16:26",
+    "entryDate": "2019-05-08",
+    "purchaseWeight": 140.645,
+    "breed": "zm-4249/f",
+    "trackingCode": "0EF40A3F6BB7443382DDD4AC5749E7F8",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "fdc226d1-324f-4451-9285-5b30bdd3e965",
+    "name": "HQQ812",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-07-02 03:11",
+    "entryDate": "2019-06-16",
+    "purchaseWeight": 136.38,
+    "breed": "fq-9627/b",
+    "trackingCode": "A51180097423406C977EF631B51BBD15",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "1195cf84-8ab7-4846-a145-67c6bf5ad463",
+    "name": "NPG781",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-07-31 17:40",
+    "entryDate": "2019-07-22",
+    "purchaseWeight": 127.455,
+    "breed": "wt-7607/j",
+    "trackingCode": "50D121D5AB494F02A148D1C8285F37E0",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "ab840c36-dc91-4a7f-945c-89e60368c97d",
+    "name": "BGE730",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-08-26 04:51",
+    "entryDate": "2019-06-30",
+    "purchaseWeight": 142.851,
+    "breed": "qx-3134/b",
+    "trackingCode": "29B9E5C9931D4CAABAF86EDC050C7FE7",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "b443b8c6-73f1-43bf-860f-183221a0190a",
+    "name": "CLI947",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-06-05 05:50",
+    "entryDate": "2019-06-12",
+    "purchaseWeight": 110.853,
+    "breed": "fj-8619/z",
+    "trackingCode": "003FC5D31FA749FCAB14F7510B88CC7D",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "d55d57ae-0a5f-492f-8211-334c344818b6",
+    "name": "VNV608",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-06-17 11:40",
+    "entryDate": "2019-06-12",
+    "purchaseWeight": 120.032,
+    "breed": "up-6259/s",
+    "trackingCode": "BA893000396E48E29135438F37F9882A",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "65810a7c-923a-4644-b780-6f37e7e40cd2",
+    "name": "RXW920",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-20 19:21",
+    "entryDate": "2019-05-13",
+    "purchaseWeight": 147.182,
+    "breed": "fj-8619/z",
+    "trackingCode": "347BA0CE446542A3B64AAF990C1B704B",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "529866c4-3363-4527-a479-dab4380015dc",
+    "name": "AMO922",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-08 06:17",
+    "entryDate": "2019-05-19",
+    "purchaseWeight": 96.876,
+    "breed": "pr-9225/p",
+    "trackingCode": "76937FCE6EAA40FEB26AEEEEEE9D27A6",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "98172f27-f84d-47ec-b4cd-af15f3452db0",
+    "name": "DZS120",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-30 19:53",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 102.635,
+    "breed": "up-6259/s",
+    "trackingCode": "E04A74823CC94C86ACF6168236C4CD7B",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "f19d5855-82e1-4bbd-9c48-1b48d660dd77",
+    "name": "MBQ061",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-17 15:13",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 129.842,
+    "breed": "cj-1447/x",
+    "trackingCode": "7ECF6B75E4B04C80872554AC00D7277D",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "8cce20bf-a64a-4455-98a8-fe2e3d317232",
+    "name": "IAC320",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-10 11:19",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 146.764,
+    "breed": "su-4773/g",
+    "trackingCode": "CAB55C24877F4E0B9FB17E8692FA47BB",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "f76d9066-73a9-43a8-8689-ef665088e619",
+    "name": "OEG421",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-12 02:37",
+    "entryDate": "2019-05-05",
+    "purchaseWeight": 97.424,
+    "breed": "vz-4733/c",
+    "trackingCode": "A18A4479E76B46F285AFF9324C81774C",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "cb02e3fa-ee1f-414d-abfe-b371210ba2ff",
+    "name": "ZZJ720",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-24 07:50",
+    "entryDate": "2019-07-12",
+    "purchaseWeight": 89.92,
+    "breed": "yp-4979/d",
+    "trackingCode": "F14F2C107A004A048754627623E15589",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "68a85980-b054-4989-9063-656b3f5870da",
+    "name": "LMA283",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-09 09:26",
+    "entryDate": "2019-07-29",
+    "purchaseWeight": 102.383,
+    "breed": "fq-9627/b",
+    "trackingCode": "61D4EF2F0EDF46B39BD732B975948830",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "850913db-ae6d-42b7-8406-11d10c0a0ef9",
+    "name": "YJK686",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-07-13 10:58",
+    "entryDate": "2019-07-21",
+    "purchaseWeight": 148.031,
+    "breed": "lj-3933/k",
+    "trackingCode": "1F6594FA1A354C25A1DF3A3C7D39D3DB",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "524083ac-99fc-4872-9765-2aab67423ff5",
+    "name": "QAV476",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-19 21:32",
+    "entryDate": "2019-06-03",
+    "purchaseWeight": 121.128,
+    "breed": "rm-6681/g",
+    "trackingCode": "7B531D45840A47A0BAC1655C888DF17D",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "503da88a-558c-4b1c-892e-016776027eeb",
+    "name": "MWP923",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-30 08:49",
+    "entryDate": "2019-06-15",
+    "purchaseWeight": 140.915,
+    "breed": "uz-4364/r",
+    "trackingCode": "98585461591A49CCA5420807B9B821F5",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "07b339a5-30ee-4e39-883f-2bd5c52fbf0a",
+    "name": "SZU855",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-06 05:33",
+    "entryDate": "2019-06-18",
+    "purchaseWeight": 112.21,
+    "breed": "up-8831/s",
+    "trackingCode": "FEA9FADD03284FC8AAE1EAD9A5A9C8A1",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "a7290a78-8211-438f-a738-7f28cd2679b0",
+    "name": "HIJ579",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-22 02:56",
+    "entryDate": "2019-05-21",
+    "purchaseWeight": 95.318,
+    "breed": "su-4773/g",
+    "trackingCode": "CAEE2CCA10954EC3B49A3E6342D41465",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "4d57dac1-6b96-42c9-9c11-822833880d6a",
+    "name": "ITE163",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-05 14:33",
+    "entryDate": "2019-06-18",
+    "purchaseWeight": 98.316,
+    "breed": "qv-3865/j",
+    "trackingCode": "B24E249D6ED9474AB5724F032D82CDB0",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "d187f2ae-809a-4f47-907a-43b34ea4ceb4",
+    "name": "HIO793",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-30 10:42",
+    "entryDate": "2019-07-06",
+    "purchaseWeight": 132.343,
+    "breed": "je-7121/b",
+    "trackingCode": "B9505A52144D47AC885D9D10CD790FC1",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "ca751cd3-a0bf-4b92-811f-1885ef27461a",
+    "name": "GBJ090",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-23 20:56",
+    "entryDate": "2019-05-28",
+    "purchaseWeight": 92.486,
+    "breed": "cb-3114/g",
+    "trackingCode": "C261A4A7FA854E1586071A66364F7EEB",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "4b7dfc71-817d-4f37-a0ba-420dcadcdc2a",
+    "name": "WSC746",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-09 14:09",
+    "entryDate": "2019-07-20",
+    "purchaseWeight": 91.349,
+    "breed": "fj-0562/d",
+    "trackingCode": "4F68951A52C948A9A1C7380DD8567AEB",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "e9294490-722b-4cda-b47c-6079282c316e",
+    "name": "GMN641",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-13 04:44",
+    "entryDate": "2019-07-16",
+    "purchaseWeight": 112.076,
+    "breed": "yp-4979/d",
+    "trackingCode": "257043DDEE9B4F288BA4349C1CFEBB5D",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "44513345-ea37-4257-9637-f7df3cc25c4c",
+    "name": "IYK183",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-29 07:52",
+    "entryDate": "2019-07-19",
+    "purchaseWeight": 109.287,
+    "breed": "yr-6653/s",
+    "trackingCode": "ED14B361D8314C389EC0E7C8840E1EB9",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "6c5b49d0-4b8a-43fb-963c-8312db67e37d",
+    "name": "WYY163",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-05 21:25",
+    "entryDate": "2019-07-04",
+    "purchaseWeight": 90.338,
+    "breed": "fj-8619/z",
+    "trackingCode": "51A93B4E2FE746D1BB937C7FB0AE075B",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "29777595-4f32-49cf-af61-4d8730be5bfd",
+    "name": "XDN048",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-24 06:38",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 85.931,
+    "breed": "lj-5867/j",
+    "trackingCode": "0F4B0A90D6E64549AD962F71EC7FAE05",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "da05eb01-be5d-4ed3-9706-d3a51250b074",
+    "name": "YAO721",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-07-09 17:03",
+    "entryDate": "2019-05-18",
+    "purchaseWeight": 95.89,
+    "breed": "yr-6653/s",
+    "trackingCode": "C99ACBEE64CD42448E5BBC916546404F",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "28b3b2df-1442-4702-a54c-d24a41715ed0",
+    "name": "HYW569",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-05 02:42",
+    "entryDate": "2019-07-13",
+    "purchaseWeight": 86.663,
+    "breed": "uz-7627/x",
+    "trackingCode": "6EA5F789587640948FE16C1C14FB94E4",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "a56c2dcc-daf5-4631-8adc-4efd846b46d8",
+    "name": "MQI548",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-06-17 11:07",
+    "entryDate": "2019-05-20",
+    "purchaseWeight": 125.07,
+    "breed": "uz-7627/x",
+    "trackingCode": "C9BD68476514438B9DF96D74C26BE8C4",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "dd8db013-8129-49ce-829e-7f72c4d98782",
+    "name": "ULQ730",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-08-21 16:32",
+    "entryDate": "2019-06-29",
+    "purchaseWeight": 134.758,
+    "breed": "pk-5598/b",
+    "trackingCode": "D8584C86E1A84A19A82D0B9DA2BB652A",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "a944d7a3-1d20-44a6-bf01-eb17b5fd6433",
+    "name": "KOG789",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-17 21:20",
+    "entryDate": "2019-07-13",
+    "purchaseWeight": 91.951,
+    "breed": "os-2179/d",
+    "trackingCode": "1E79D27D8DC942CFA200AEF59FFBCE40",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "249012c2-08fc-4eda-9461-7d5d1643ab93",
+    "name": "ZWX646",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-29 05:22",
+    "entryDate": "2019-06-27",
+    "purchaseWeight": 137.764,
+    "breed": "rk-0525/i",
+    "trackingCode": "8C764195E9FD4A63997E70F6D2F91820",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "dc78d55d-3fc8-434d-b5b1-4ce60f7e00e8",
+    "name": "FAR959",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-04 05:41",
+    "entryDate": "2019-07-04",
+    "purchaseWeight": 142.989,
+    "breed": "mq-2872/w",
+    "trackingCode": "D459C97BCDD84AC998DB0F7AB3DAFAAF",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "7380b6f5-c144-4947-b3b6-1a6dea1ce34b",
+    "name": "IAO063",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-25 00:42",
+    "entryDate": "2019-05-19",
+    "purchaseWeight": 131.499,
+    "breed": "ai-1498/q",
+    "trackingCode": "7462E87302EE4AB4B3001ACDFA5F2394",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "9b3dc935-02f1-44e1-85a4-0e28e83d7f4f",
+    "name": "GHA320",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-10 19:55",
+    "entryDate": "2019-06-30",
+    "purchaseWeight": 123.877,
+    "breed": "on-5349/r",
+    "trackingCode": "DE107F2902C74123AED7627F1242443E",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "ece1379a-75f1-40d5-b014-5a6258c73461",
+    "name": "XYB837",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-08-01 08:27",
+    "entryDate": "2019-07-19",
+    "purchaseWeight": 142.247,
+    "breed": "up-6259/s",
+    "trackingCode": "CE987432937F432491FBCF813AA3EF9E",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "eed557bc-8224-40c4-a426-1c75573706de",
+    "name": "WUH362",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-28 06:01",
+    "entryDate": "2019-05-26",
+    "purchaseWeight": 105.192,
+    "breed": "tj-7839/t",
+    "trackingCode": "244047677CAD45429B0CE6CBD7EE0566",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "239b7549-7032-4fe1-b5a3-2aae8c4ee96e",
+    "name": "YVC063",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-06 22:37",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 112.645,
+    "breed": "nu-5760/s",
+    "trackingCode": "0F26100D1E314378AF18CA619DD6A166",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "bb540fc1-025e-424a-a937-4e5295f70c12",
+    "name": "IYT886",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-19 18:24",
+    "entryDate": "2019-05-29",
+    "purchaseWeight": 148.499,
+    "breed": "qv-3865/j",
+    "trackingCode": "92E61B674CFA4A5CA3264BEC765245D2",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "ef6f33cf-2800-47ca-846f-4c003a0e4104",
+    "name": "DXB641",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-12 10:54",
+    "entryDate": "2019-05-11",
+    "purchaseWeight": 130.096,
+    "breed": "fj-0562/d",
+    "trackingCode": "77602E38D2D64CEC88FB71B1BF3DD130",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "58f3ee2f-b76c-47d6-8365-c3392bb1a1d8",
+    "name": "YFQ906",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-08-01 10:43",
+    "entryDate": "2019-07-06",
+    "purchaseWeight": 115.183,
+    "breed": "rm-6681/g",
+    "trackingCode": "B5968AC2A3194389A73D0BAC1AF6D7B8",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "e32717ee-c0db-41c2-b6c5-0222b06d616f",
+    "name": "CAB799",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-12 05:42",
+    "entryDate": "2019-05-30",
+    "purchaseWeight": 122.631,
+    "breed": "je-7121/b",
+    "trackingCode": "CCB2F645697F4FF59C1A8A7B7E54D7A8",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "5dbbf882-2054-4eb3-94cc-dcf86a0813c3",
+    "name": "CQW808",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-02 09:27",
+    "entryDate": "2019-06-24",
+    "purchaseWeight": 124.51,
+    "breed": "em-5235/r",
+    "trackingCode": "424BA1D150D54D95B76747DF41BFA848",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "0c165396-d7b1-4de5-a573-17df2b34a180",
+    "name": "UJU095",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-24 23:56",
+    "entryDate": "2019-05-22",
+    "purchaseWeight": 102.307,
+    "breed": "fj-8619/z",
+    "trackingCode": "808CF68B06AC42268872A567ED563D8C",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "8a4cf526-cceb-4ed1-94f8-1443eb685e5e",
+    "name": "OOR758",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-06-09 15:35",
+    "entryDate": "2019-05-15",
+    "purchaseWeight": 106.05,
+    "breed": "cb-3114/g",
+    "trackingCode": "B2727DC28BE441C0A4B72CCB5E958C61",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "c4dbbf6b-225c-484c-ad2b-8aef9bac4f1a",
+    "name": "UPK625",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-06-17 20:28",
+    "entryDate": "2019-07-17",
+    "purchaseWeight": 103.575,
+    "breed": "qj-3317/x",
+    "trackingCode": "A6E788E7F9BC4EE1AA9CFE46A096FA1F",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "8aa37f7a-3924-4e41-8629-2855f8c23523",
+    "name": "EPL527",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-11 12:43",
+    "entryDate": "2019-07-20",
+    "purchaseWeight": 115.055,
+    "breed": "ui-4460/g",
+    "trackingCode": "33D6B002281A4ECDAD4F013D8FE36422",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "5786c750-6baf-44b5-a32a-8c2d01436c25",
+    "name": "CGS484",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-11 11:21",
+    "entryDate": "2019-06-22",
+    "purchaseWeight": 145.768,
+    "breed": "bd-2931/w",
+    "trackingCode": "CFD19881F5C54830A93F23D3C4D466F7",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "27ea84ed-d5bb-43b3-9a08-2901a4f0ec6a",
+    "name": "BAN598",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-24 10:11",
+    "entryDate": "2019-06-30",
+    "purchaseWeight": 122.365,
+    "breed": "su-4773/g",
+    "trackingCode": "6B5086E8FEAB431D9C3F24BA1695A595",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "edece7a8-d727-4410-889d-8ccf9495b843",
+    "name": "DKV705",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-20 13:03",
+    "entryDate": "2019-07-05",
+    "purchaseWeight": 131.062,
+    "breed": "rl-9900/c",
+    "trackingCode": "F0D3A258A6C240E18205D320946DFF0C",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "d4c26f4a-ebd2-4c85-80ad-059d544867e7",
+    "name": "XAL340",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-11 04:54",
+    "entryDate": "2019-06-03",
+    "purchaseWeight": 133.658,
+    "breed": "pr-9225/p",
+    "trackingCode": "DFE49A68A36F4BFD82822CD257D150A2",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "c5771747-e88b-482a-814c-0407ddaa56ab",
+    "name": "LQW917",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-12 19:03",
+    "entryDate": "2019-07-07",
+    "purchaseWeight": 137.316,
+    "breed": "rm-6681/g",
+    "trackingCode": "E3404CAEA3DD432EB1CD4A5EE84C7DBF",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "a5e6d872-3f56-4c4a-9bcb-ecffde1a9e5f",
+    "name": "XWS339",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-08-31 11:47",
+    "entryDate": "2019-05-22",
+    "purchaseWeight": 130.92,
+    "breed": "su-4773/g",
+    "trackingCode": "F50E336A8EBE49C78809B561B843E6FF",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "eef9b4df-a31a-4ae9-b180-23bd1a73198e",
+    "name": "NOU093",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-14 22:11",
+    "entryDate": "2019-06-18",
+    "purchaseWeight": 95.369,
+    "breed": "vb-9971/c",
+    "trackingCode": "708D867041074C1A8FC085907ABD5E1F",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "3fe63cd3-ffdf-4a1e-a398-2dca691a871d",
+    "name": "XZD224",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-05 18:12",
+    "entryDate": "2019-07-24",
+    "purchaseWeight": 132.012,
+    "breed": "rk-0525/i",
+    "trackingCode": "2170823F8E52476A9FB328265CF8C398",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "8482adcb-b03e-4753-b68b-cd73081266ae",
+    "name": "RJV501",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-06 17:38",
+    "entryDate": "2019-07-06",
+    "purchaseWeight": 106.664,
+    "breed": "qx-3134/b",
+    "trackingCode": "6AE2E7523C844F728B54F701C8D524B3",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "28425463-9924-41d4-b22b-1ff188109693",
+    "name": "DDN745",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-07-30 02:44",
+    "entryDate": "2019-05-10",
+    "purchaseWeight": 123.697,
+    "breed": "ac-7077/m",
+    "trackingCode": "DEA3343E4D464859B318D4D1B9968028",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "6c31d7fb-2a29-4f2d-8db0-425e64f8cbbe",
+    "name": "AQJ140",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-13 03:00",
+    "entryDate": "2019-06-13",
+    "purchaseWeight": 147.299,
+    "breed": "vz-4733/c",
+    "trackingCode": "F3D0CC5270BC4EDAB76DF2C75576D7BD",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "e0f8552b-39fc-4f6c-bfae-e02c3c576099",
+    "name": "BHN846",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-26 13:12",
+    "entryDate": "2019-07-08",
+    "purchaseWeight": 138.498,
+    "breed": "ss-2108/q",
+    "trackingCode": "47A615B4AA584F438F7D51A7309960BB",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "66463748-27c6-48ba-a2df-d411d76b5e56",
+    "name": "UBU831",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-05 03:50",
+    "entryDate": "2019-06-26",
+    "purchaseWeight": 102.416,
+    "breed": "yw-4458/i",
+    "trackingCode": "1911DBF956AD44B0BDF08C252A1FAB5E",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "a7f8e41b-b0f2-4679-a766-1e10973cc46d",
+    "name": "EPX123",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-29 05:28",
+    "entryDate": "2019-05-23",
+    "purchaseWeight": 123.536,
+    "breed": "tw-2550/e",
+    "trackingCode": "C862707D98D74FDA86DFD5B1E6796B62",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "90c10e54-c294-4d87-b994-b4ef71fa3556",
+    "name": "MCN919",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-30 00:57",
+    "entryDate": "2019-07-10",
+    "purchaseWeight": 118.768,
+    "breed": "ga-1011/o",
+    "trackingCode": "9AE1F45D62394BEFAF1EC8F60B08C9F6",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "9c0e6044-dec2-4342-8086-061f26281d70",
+    "name": "SGV237",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-12 21:03",
+    "entryDate": "2019-07-17",
+    "purchaseWeight": 125.482,
+    "breed": "ul-6276/j",
+    "trackingCode": "ABE1717D0F0548D8929AAB25A014A17B",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "5db5e043-397f-40ea-a46a-a729f4ad21ae",
+    "name": "KRT466",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-07-04 06:13",
+    "entryDate": "2019-06-10",
+    "purchaseWeight": 100.156,
+    "breed": "yr-6653/s",
+    "trackingCode": "9BBA9276DC79441C9D6233D549DE7659",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "f7ce912c-a38c-4645-9b4a-42c1941f1049",
+    "name": "LRD378",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-29 06:05",
+    "entryDate": "2019-05-08",
+    "purchaseWeight": 120.896,
+    "breed": "mq-2872/w",
+    "trackingCode": "66EB503547E34477A74CEAB70AE5301D",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "457416dd-5bac-426b-abb9-f822a21e29a0",
+    "name": "PBW049",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-18 14:35",
+    "entryDate": "2019-06-24",
+    "purchaseWeight": 137.799,
+    "breed": "fq-9627/b",
+    "trackingCode": "8CDEF41C6DD240408CABDA2651AEA2C7",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "dd273258-ba0e-4b23-9adf-f28fd91a30df",
+    "name": "XTD214",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-06-05 14:07",
+    "entryDate": "2019-05-24",
+    "purchaseWeight": 128.441,
+    "breed": "on-5349/r",
+    "trackingCode": "10060DE87CE24F59B631676B0948459F",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "a6c3f18c-6d00-468c-a1f4-0952e0e8db90",
+    "name": "DZO253",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-19 15:34",
+    "entryDate": "2019-07-13",
+    "purchaseWeight": 141.076,
+    "breed": "lj-5867/j",
+    "trackingCode": "4FFCEEDA76BD44AAAD87FE4D8C2FADBF",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "ef9e9d23-3f68-4f2d-a2ff-04c41cc4e5e4",
+    "name": "YCO322",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-08-06 23:39",
+    "entryDate": "2019-06-24",
+    "purchaseWeight": 98.472,
+    "breed": "sq-5790/s",
+    "trackingCode": "2B97969BE3F24596B11BCA405E123A0E",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "d91926a8-755c-48c5-9b59-e8ec7478ddda",
+    "name": "TTU991",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-06-20 02:18",
+    "entryDate": "2019-05-16",
+    "purchaseWeight": 134.205,
+    "breed": "zm-4249/f",
+    "trackingCode": "52E0B0E8BF084A2293AC8061B1F2548C",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "17fb3326-7436-4c51-ab0a-73a1fa1e3291",
+    "name": "ZEP467",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-08-03 14:00",
+    "entryDate": "2019-07-29",
+    "purchaseWeight": 88.71,
+    "breed": "dg-3791/e",
+    "trackingCode": "118B05E8110F4DED808DE8172AF51207",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "e034527a-6b01-456f-a0e6-a1b5fb7f6a8f",
+    "name": "TAK619",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-04 01:04",
+    "entryDate": "2019-07-07",
+    "purchaseWeight": 123.772,
+    "breed": "bo-7821/y",
+    "trackingCode": "D1123B78309944839E0DB5795937EFAB",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "54417eb9-b357-4c9c-9d5f-9d18f835048c",
+    "name": "XCU045",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-23 16:54",
+    "entryDate": "2019-07-27",
+    "purchaseWeight": 129.951,
+    "breed": "ss-2108/q",
+    "trackingCode": "59140C39CE71441F9281246F34E17783",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "74d96875-cd9e-43ff-9841-72e9e2e5b354",
+    "name": "YGO110",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-07-17 12:43",
+    "entryDate": "2019-06-11",
+    "purchaseWeight": 99.789,
+    "breed": "tj-7839/t",
+    "trackingCode": "CF9A18FD828940BB9D0E8480D4FAC7EF",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "c5fbfed5-51ec-4476-ac63-c9bf2d0723aa",
+    "name": "PRJ470",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-26 20:55",
+    "entryDate": "2019-06-13",
+    "purchaseWeight": 123.88,
+    "breed": "yw-4458/i",
+    "trackingCode": "4BAF7F4B93E14291BBA1BE345F8DA735",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "12b15768-00bc-41f7-9ade-1e4101f3dd3e",
+    "name": "NEX241",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-26 03:11",
+    "entryDate": "2019-06-18",
+    "purchaseWeight": 129.494,
+    "breed": "jm-3826/h",
+    "trackingCode": "59CEAAA0B4484EB6AE8B385B36C69D7C",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "2ee42464-aede-494b-9a6a-15fe29c73328",
+    "name": "VQF283",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-19 19:26",
+    "entryDate": "2019-06-02",
+    "purchaseWeight": 106.73,
+    "breed": "je-7121/b",
+    "trackingCode": "ADEBD996BA6649ED87858930070BD2E8",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "9965c81c-2101-4cf9-99ee-b0b5e6124b07",
+    "name": "SGL969",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-07-26 04:12",
+    "entryDate": "2019-06-11",
+    "purchaseWeight": 105.199,
+    "breed": "wm-8643/q",
+    "trackingCode": "A3D13D4818584A25975E4A0E1684F58F",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "83ac24cb-d77d-4440-ac60-9d71424563e3",
+    "name": "JZK036",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-08-24 01:21",
+    "entryDate": "2019-06-12",
+    "purchaseWeight": 114.893,
+    "breed": "bz-7753/h",
+    "trackingCode": "075C5ABFC36D4F56968B84AEB65E6AA3",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "35e90dc4-943b-4468-9355-7e9a724c6474",
+    "name": "SAU960",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-07-17 10:27",
+    "entryDate": "2019-05-08",
+    "purchaseWeight": 86.408,
+    "breed": "xy-8150/x",
+    "trackingCode": "C08C10EFD6974764BCB3A273F7CED7F7",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "88076256-faeb-41ca-ba2a-44b90473497c",
+    "name": "DAW752",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-16 10:26",
+    "entryDate": "2019-06-19",
+    "purchaseWeight": 102.755,
+    "breed": "fq-9627/b",
+    "trackingCode": "99238B99F2844463B238A9FAF894B789",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "00a4d83b-3bc4-48f5-b37c-d8826ea6cb0f",
+    "name": "TCU415",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-26 06:38",
+    "entryDate": "2019-07-10",
+    "purchaseWeight": 150.291,
+    "breed": "tw-2550/e",
+    "trackingCode": "E7A4F963E465445CA489E04C2289635E",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "bd9c34d7-b2db-422f-9de1-831ff83218e2",
+    "name": "NUP955",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-10 11:38",
+    "entryDate": "2019-05-28",
+    "purchaseWeight": 94.663,
+    "breed": "ul-6276/j",
+    "trackingCode": "16495898EAD446AD9C96089B6208E912",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "831589e1-edef-4240-a5f8-92ef1fa0d9c8",
+    "name": "QVS702",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-23 13:43",
+    "entryDate": "2019-07-01",
+    "purchaseWeight": 144.109,
+    "breed": "cb-3114/g",
+    "trackingCode": "423FDBBC6FA947719BDA624AE4F375E7",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "8c84c04a-01e5-4e01-acd8-041a4ec2d440",
+    "name": "ZYE052",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-08-26 03:37",
+    "entryDate": "2019-05-25",
+    "purchaseWeight": 133.254,
+    "breed": "fq-9627/b",
+    "trackingCode": "AA2C0EAD1457413C898C123CFE1B46CC",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "73eb092d-1d23-4f81-8f6d-163a24d5ac02",
+    "name": "OUN185",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-06 08:33",
+    "entryDate": "2019-05-07",
+    "purchaseWeight": 113.037,
+    "breed": "km-6624/b",
+    "trackingCode": "A8366B034E3F4ED2BE580AB7A0B104F9",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "33ec5f81-13f2-4aee-b8d4-31835d0919a5",
+    "name": "GQY478",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-12 15:36",
+    "entryDate": "2019-07-10",
+    "purchaseWeight": 99.559,
+    "breed": "hq-9636/e",
+    "trackingCode": "4C522E9B57854B1381AA46F969AD00D7",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "3ad04383-22f7-4ad0-b5c0-bba582bfd80d",
+    "name": "FKL531",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-28 18:26",
+    "entryDate": "2019-05-27",
+    "purchaseWeight": 140.893,
+    "breed": "uz-7627/x",
+    "trackingCode": "07D39E1B0FE249BB9812F263536BAF01",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "52abf24b-aa9d-4b95-8e08-ad3f59bf9381",
+    "name": "CJI847",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-07-09 02:27",
+    "entryDate": "2019-06-19",
+    "purchaseWeight": 91.407,
+    "breed": "uz-4364/r",
+    "trackingCode": "FAE6DDED3B2A49D8A4C8785131FF80E9",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "a3b7ccbf-f6a0-44f5-8f8b-c19341826096",
+    "name": "YJW715",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-08-29 20:31",
+    "entryDate": "2019-06-15",
+    "purchaseWeight": 147.349,
+    "breed": "tj-7839/t",
+    "trackingCode": "83CB36A5B6984DF5B5337056D4394FAF",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "2f1ef9d5-1136-489d-8dd0-3ef1dd75d698",
+    "name": "JRP037",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-12 17:24",
+    "entryDate": "2019-06-03",
+    "purchaseWeight": 150.215,
+    "breed": "bo-7821/y",
+    "trackingCode": "38388F10440E49AB804AAAB9D40AF5D4",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "53471f9a-086c-4b25-a174-c4067bd021fc",
+    "name": "DNG406",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-12 05:46",
+    "entryDate": "2019-06-29",
+    "purchaseWeight": 126.74,
+    "breed": "xy-8150/x",
+    "trackingCode": "0B3D7B223C7E4BC88320349C87241545",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "d0675198-74f4-45ce-b8f8-f875f1247dc4",
+    "name": "IXO809",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-08-15 08:22",
+    "entryDate": "2019-06-08",
+    "purchaseWeight": 134.25,
+    "breed": "em-5235/r",
+    "trackingCode": "0FAF765E6389456B92860BF6EB55EDAF",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "18241a7f-f795-4e71-b04d-f020ec0d62d8",
+    "name": "FWA475",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-06-21 09:24",
+    "entryDate": "2019-07-19",
+    "purchaseWeight": 85.879,
+    "breed": "on-5349/r",
+    "trackingCode": "C5A5F6E50B624CF2A51441F0DEC4CA43",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "40b3a832-6b6f-4b41-b766-d7d3b8abe6a1",
+    "name": "SCD804",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-08-07 09:50",
+    "entryDate": "2019-07-31",
+    "purchaseWeight": 88.96,
+    "breed": "tj-7839/t",
+    "trackingCode": "DBCA7194276B41AEB793A1758E2FAB58",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "9bbf9c93-9d0c-4376-8811-6f27e29ac0f9",
+    "name": "LIJ007",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-26 11:04",
+    "entryDate": "2019-07-05",
+    "purchaseWeight": 106.614,
+    "breed": "qj-3317/x",
+    "trackingCode": "7850AC2D63AB4A19A83FC240BA398A82",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "e92075f2-92d3-4565-87d9-2d61356c1ff4",
+    "name": "EGQ540",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-12 01:23",
+    "entryDate": "2019-06-09",
+    "purchaseWeight": 129.973,
+    "breed": "up-6259/s",
+    "trackingCode": "B13CD9EC9AF94B8DB204A4E4330893A0",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "03a03433-4d71-4223-b9d0-19340e60d12f",
+    "name": "KLJ348",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-29 21:34",
+    "entryDate": "2019-05-08",
+    "purchaseWeight": 96.089,
+    "breed": "lj-5867/j",
+    "trackingCode": "AF4401CB42AA43D2A86855059CDDDADF",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "8556115f-4618-4ad2-a704-15e2e7fb82c0",
+    "name": "SYT271",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-07-09 16:56",
+    "entryDate": "2019-06-10",
+    "purchaseWeight": 110.484,
+    "breed": "ga-1011/o",
+    "trackingCode": "D5B81566620D4AE681F44B94FCAEF2BC",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "47f5aadd-fccc-4ce7-a7a8-f2e153c4fbbf",
+    "name": "SWH357",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-06 20:44",
+    "entryDate": "2019-06-30",
+    "purchaseWeight": 105.248,
+    "breed": "mh-6752/d",
+    "trackingCode": "FD28B8C7EE7843B8AF79A791C252A515",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "3e8ba6e1-50a4-4b07-8949-7f79dcc2e040",
+    "name": "LJV471",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-08-05 06:14",
+    "entryDate": "2019-05-18",
+    "purchaseWeight": 103.66,
+    "breed": "qj-3317/x",
+    "trackingCode": "4AE757C7E9C4436EAF91DCB93A236B00",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "1d6cdb80-71c1-48a3-aa42-fe64ec097846",
+    "name": "NFY713",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-21 05:35",
+    "entryDate": "2019-07-05",
+    "purchaseWeight": 143.099,
+    "breed": "bo-7821/y",
+    "trackingCode": "58D8C3AB61BC4770ADAC9D4FC5E6FF1E",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "e530fd86-a9e3-4386-9d10-526303e4a264",
+    "name": "HTJ918",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-07 07:09",
+    "entryDate": "2019-06-11",
+    "purchaseWeight": 103.481,
+    "breed": "ui-4460/g",
+    "trackingCode": "3C264B6744CC4F34B4018F218CAD0D36",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "7da72ad5-ae13-4346-88a0-00548e44437f",
+    "name": "KGS301",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-08-24 09:52",
+    "entryDate": "2019-07-30",
+    "purchaseWeight": 145.8,
+    "breed": "cb-3114/g",
+    "trackingCode": "DB34BF9DBF924AD58955C6E6638D81D7",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "695b301a-bbd4-4855-a24c-29bd84d604aa",
+    "name": "DUA669",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-11 04:08",
+    "entryDate": "2019-05-06",
+    "purchaseWeight": 106.385,
+    "breed": "wt-7607/j",
+    "trackingCode": "C5D279B5CAF74713B4913E6508B48BE1",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "b2dc0ee3-f064-4235-a7f1-b9860f27f2ba",
+    "name": "ANH839",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 7",
+    "dataNascimento": "2017-08-25 02:22",
+    "entryDate": "2019-05-14",
+    "purchaseWeight": 91.649,
+    "breed": "km-6624/b",
+    "trackingCode": "6EA9C762E8704107AFAF3B9244FD1A8B",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "d8c94d57-348c-4885-a295-7c8fd7ba0b95",
+    "name": "LCX800",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-26 01:31",
+    "entryDate": "2019-07-24",
+    "purchaseWeight": 132.416,
+    "breed": "qj-3317/x",
+    "trackingCode": "8DFFD18C7C1F4D658186C1935DC204CB",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "42653837-7fcd-45b6-b2f2-1af57d0f8432",
+    "name": "AWZ495",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-31 04:04",
+    "entryDate": "2019-05-06",
+    "purchaseWeight": 122.083,
+    "breed": "jm-3826/h",
+    "trackingCode": "2CD991A0420F4F9B9DBA6EAC96FC18CD",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "99c5f693-749c-4a8d-855c-43c509dc4175",
+    "name": "SSL538",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-08-30 17:48",
+    "entryDate": "2019-06-24",
+    "purchaseWeight": 95.751,
+    "breed": "bd-2931/w",
+    "trackingCode": "C4CF8A29365F4F4DB74D5233B6DCE0E3",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "0aed8b23-d222-4176-8506-fa897595b950",
+    "name": "ASK962",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-07 10:29",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 90.187,
+    "breed": "ui-4460/g",
+    "trackingCode": "4A97F0CE342D4E5897D983C00ACB85BD",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "0363fcef-8210-4d45-add0-121e30e014f4",
+    "name": "XPM386",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-06-09 16:04",
+    "entryDate": "2019-07-23",
+    "purchaseWeight": 118.184,
+    "breed": "wt-7607/j",
+    "trackingCode": "34B22313E2A94C8198B70EA6958AFF8A",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "ff1338f6-d185-4f5c-88ba-1ca639c4f270",
+    "name": "XMW280",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-09 20:09",
+    "entryDate": "2019-06-30",
+    "purchaseWeight": 132.977,
+    "breed": "wt-7607/j",
+    "trackingCode": "C7DE973921FB444DA10EF5B27B69DADD",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "a9c654d1-681c-4dff-a8b8-980e7e07977c",
+    "name": "YBL952",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-24 23:34",
+    "entryDate": "2019-07-28",
+    "purchaseWeight": 130.163,
+    "breed": "bz-7753/h",
+    "trackingCode": "E0730E85F6914813A1A90097A0F69F74",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "d08b91f3-42a2-44ab-b362-02d91aac91d8",
+    "name": "KTA365",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-23 20:15",
+    "entryDate": "2019-06-19",
+    "purchaseWeight": 97.561,
+    "breed": "uz-4364/r",
+    "trackingCode": "FC0A5CA5C0EF4D81A5CF8A4670DC1F2C",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "b780a343-277b-41bd-8851-17150ead4c0a",
+    "name": "UJG583",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-06-04 06:51",
+    "entryDate": "2019-06-03",
+    "purchaseWeight": 100.833,
+    "breed": "mq-2872/w",
+    "trackingCode": "C539325F982B4E869ED11151A1D47D1A",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "b8658c47-bb8c-4fa8-9d63-f71cab7d2e43",
+    "name": "YYM654",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-26 13:06",
+    "entryDate": "2019-05-04",
+    "purchaseWeight": 129.6,
+    "breed": "tj-7839/t",
+    "trackingCode": "08191AF6C5A14AF4A8B5A5F631AF2311",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "4ca3c4f1-ccd4-4600-9e4d-aa3f29160d7a",
+    "name": "OFK008",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-17 03:22",
+    "entryDate": "2019-05-21",
+    "purchaseWeight": 99.141,
+    "breed": "ul-6276/j",
+    "trackingCode": "E2D021F366814488842522A6D251C064",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "bcaea284-2f83-432d-8c17-32fccaff0ca5",
+    "name": "RSI264",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-20 05:40",
+    "entryDate": "2019-08-01",
+    "purchaseWeight": 98.258,
+    "breed": "mc-0951/h",
+    "trackingCode": "B03A61504B7E4D5D8578650CE422993D",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "c2ae92ad-d49f-46b7-8456-617a120b0987",
+    "name": "SAE817",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-31 12:19",
+    "entryDate": "2019-05-14",
+    "purchaseWeight": 102.801,
+    "breed": "uz-7627/x",
+    "trackingCode": "60FE4C55950B45F1BC8B0C82F1C63E1B",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "091c62fa-6539-4c55-af51-9fca938af09b",
+    "name": "OFG081",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-30 08:08",
+    "entryDate": "2019-05-25",
+    "purchaseWeight": 137.892,
+    "breed": "wt-7607/j",
+    "trackingCode": "8C891AAA326F438DA85CF72EBEC49E09",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "f22c5b35-75f4-46cf-85f0-69e66357aca5",
+    "name": "OAD730",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Pocilga/LADO B",
+    "dataNascimento": "2017-06-19 06:11",
+    "entryDate": "2019-07-07",
+    "purchaseWeight": 106.586,
+    "breed": "ov-4485/c",
+    "trackingCode": "6BCA30D9218E40978829A589403805FA",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "a4c66410-1d69-47cc-bac3-c062adfc4788",
+    "name": "FVS780",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-18 02:43",
+    "entryDate": "2019-07-18",
+    "purchaseWeight": 138.556,
+    "breed": "tn-7615/s",
+    "trackingCode": "7850EB583BAC4087BA6ABBBE0476B3C8",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "50cd7dfc-f340-4051-8b96-f40735831f3f",
+    "name": "GUM726",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-07-10 02:15",
+    "entryDate": "2019-06-30",
+    "purchaseWeight": 124.332,
+    "breed": "ga-1011/o",
+    "trackingCode": "1AB085A7A608401985E0E4DE6443BBEE",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "405adad2-79da-45e4-aff2-f4c5ade538f9",
+    "name": "VMN188",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-13 20:21",
+    "entryDate": "2019-07-20",
+    "purchaseWeight": 91.629,
+    "breed": "yq-1106/n",
+    "trackingCode": "694BA25F082C40DDA79FAECEBE1D032D",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "63e945b0-f7bc-427d-9f33-2dbd99cb727e",
+    "name": "USY429",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-08-09 15:13",
+    "entryDate": "2019-05-14",
+    "purchaseWeight": 135.712,
+    "breed": "qv-3865/j",
+    "trackingCode": "60D202AA094D4EB3A95E4B81D600A095",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "872ba3d8-8192-415d-bfa6-13d2f0ce892c",
+    "name": "TXD378",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-18 08:32",
+    "entryDate": "2019-05-14",
+    "purchaseWeight": 89.987,
+    "breed": "cj-1447/x",
+    "trackingCode": "A1CC65557CFB45B0BF478AA176F09838",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UIN",
+      "description": "Incubat\u00f3rio"
+    }
+  },
+  {
+    "id": "785b4d5b-8757-497e-9add-f1dd14a138a3",
+    "name": "HYF197",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-07-02 22:30",
+    "entryDate": "2019-06-23",
+    "purchaseWeight": 100.869,
+    "breed": "mh-6752/d",
+    "trackingCode": "C956341113284442BEF6E1EC4E6C3F79",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "164352da-838c-4deb-9ab7-26042848fcab",
+    "name": "KZS765",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-07-04 20:13",
+    "entryDate": "2019-07-31",
+    "purchaseWeight": 145.465,
+    "breed": "yr-6653/s",
+    "trackingCode": "FFD6DA4BDA1D404C889C320528776C41",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "a8af0eca-d2c9-4f71-b5a7-8c5c1b6326bf",
+    "name": "PDH765",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-06-11 18:29",
+    "entryDate": "2019-05-20",
+    "purchaseWeight": 126.287,
+    "breed": "fq-9627/b",
+    "trackingCode": "CB538254609D4E598D82AA405C1241D7",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "95050379-3e47-4e19-85f7-a3b256894b1e",
+    "name": "JUX865",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-06-22 19:06",
+    "entryDate": "2019-05-20",
+    "purchaseWeight": 96.215,
+    "breed": "fj-0562/d",
+    "trackingCode": "46EA13CC093E4F028EAF1A200F5B7D84",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "20fd3afc-1713-4d64-82ee-c6246b98db6a",
+    "name": "TFR337",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 6",
+    "dataNascimento": "2017-08-07 09:12",
+    "entryDate": "2019-05-23",
+    "purchaseWeight": 113.916,
+    "breed": "mh-6752/d",
+    "trackingCode": "D76E119B650C486283443526DECF738C",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "68d8c783-b49f-42a8-9edc-485e70336e08",
+    "name": "XWY655",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-01 15:07",
+    "entryDate": "2019-07-18",
+    "purchaseWeight": 85.855,
+    "breed": "em-5235/r",
+    "trackingCode": "8698D2DEE13C4A35A6D30D7874B4912A",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "d73cdf07-a07f-4aa6-bee0-30f20310ac88",
+    "name": "EBI075",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-07-09 10:47",
+    "entryDate": "2019-06-15",
+    "purchaseWeight": 87.368,
+    "breed": "fj-8619/z",
+    "trackingCode": "CF28308FA3714DBCA7835DDD7753667A",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "43eda4d4-25a5-41bf-aef4-af5212dc77fc",
+    "name": "XXR195",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-15 09:23",
+    "entryDate": "2019-06-27",
+    "purchaseWeight": 147.643,
+    "breed": "ui-4460/g",
+    "trackingCode": "ABBFFC527E0143FAB51771DBB9165272",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "1b2bdf8c-6f7d-4986-b113-3b8d0d480a31",
+    "name": "LRJ651",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-29 12:34",
+    "entryDate": "2019-06-08",
+    "purchaseWeight": 99.167,
+    "breed": "rl-9900/c",
+    "trackingCode": "9C4C2AC879B24EECA77977D14BE6387A",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "9cb2f502-8ac1-4940-8d7c-e04440704a09",
+    "name": "OUF122",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Sala 8",
+    "dataNascimento": "2017-06-21 08:57",
+    "entryDate": "2019-07-31",
+    "purchaseWeight": 147.735,
+    "breed": "uz-7627/x",
+    "trackingCode": "80C0DC6C0CA642BDBE9126C919888237",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "d80bec3a-2a88-406c-a547-ec58debb36e8",
+    "name": "WOK689",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-06-28 13:56",
+    "entryDate": "2019-07-22",
+    "purchaseWeight": 138.203,
+    "breed": "oq-1622/b",
+    "trackingCode": "3F51C1F78F334E45A7E7DE9ECBE3EA74",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPM",
+      "description": "Matrizes"
+    }
+  },
+  {
+    "id": "78a9bad6-6da0-446c-8453-575807cf4f67",
+    "name": "ABJ148",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-07-14 04:03",
+    "entryDate": "2019-08-01",
+    "purchaseWeight": 114.253,
+    "breed": "nu-5760/s",
+    "trackingCode": "A1181A3AD3F1474798C10D044DD5DDE3",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "18ad15c9-0388-4ed5-99ea-bc61d431d849",
+    "name": "FUJ974",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-06-23 17:01",
+    "entryDate": "2019-05-26",
+    "purchaseWeight": 98.742,
+    "breed": "lg-4519/r",
+    "trackingCode": "8901C50248EC484DADF2395E12250473",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCR",
+      "description": "Crech\u00e1rio"
+    }
+  },
+  {
+    "id": "c461edc4-fd0f-45b7-ba62-cc470fea7cd9",
+    "name": "QIZ215",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Pocilga/LADO A",
+    "dataNascimento": "2017-07-26 18:22",
+    "entryDate": "2019-07-24",
+    "purchaseWeight": 142.879,
+    "breed": "qx-3134/b",
+    "trackingCode": "932F8D6EFA5240B594629A5011F9292F",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "8ba3395a-79be-4004-9626-3dd429d70341",
+    "name": "MHS186",
+    "type": "POULTRY",
+    "status": 2,
+    "locale": "Sala 2",
+    "dataNascimento": "2017-06-22 12:49",
+    "entryDate": "2019-07-01",
+    "purchaseWeight": 136.709,
+    "breed": "up-8831/s",
+    "trackingCode": "A393D03A9D50466FB70F49B8291A5CF7",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "62e8f81a-feac-4b6c-ad49-17a2d5dceb6c",
+    "name": "DHK434",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Sala 9",
+    "dataNascimento": "2017-08-24 02:00",
+    "entryDate": "2019-06-11",
+    "purchaseWeight": 128.906,
+    "breed": "yw-4458/i",
+    "trackingCode": "900CF82CB9854DD685105F9C224006BD",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "ccb4b3b9-eae0-4d48-927f-f1e027583e77",
+    "name": "GCK276",
+    "type": "POULTRY",
+    "status": 3,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-11 03:21",
+    "entryDate": "2019-07-04",
+    "purchaseWeight": 136.411,
+    "breed": "ul-6276/j",
+    "trackingCode": "90EFDF3633514027895F55CF02D758DE",
+    "productionPhase": {
+      "initials": "REC",
+      "description": "Fase onde pintinhos s\u00e3o criados at\u00e9 virarem frangas ou frango, criados em galp\u00f5es separados (+-1 dia at\u00e9 23/24 semanas)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "49225ca1-9eba-4db3-9c5e-83464a76685b",
+    "name": "JDB812",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-12 11:07",
+    "entryDate": "2019-06-29",
+    "purchaseWeight": 117.101,
+    "breed": "ul-6276/j",
+    "trackingCode": "4BE32881BDC943429DC946F22EF47FC1",
+    "productionPhase": {
+      "initials": "ENG",
+      "description": "Fase onde os pintinhos s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UEN",
+      "description": "Engorda"
+    }
+  },
+  {
+    "id": "7bf85e54-81ad-4306-bb09-fb010622948b",
+    "name": "HRQ698",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 3",
+    "dataNascimento": "2017-07-24 08:57",
+    "entryDate": "2019-05-09",
+    "purchaseWeight": 147.894,
+    "breed": "rl-9900/c",
+    "trackingCode": "CFAEC63465244EA7B208E2495CA5A6D7",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "c2f73e04-63ab-42bb-b613-cbc401abf2ba",
+    "name": "UOH826",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 1",
+    "dataNascimento": "2017-08-05 12:14",
+    "entryDate": "2019-07-11",
+    "purchaseWeight": 143.204,
+    "breed": "yw-4458/i",
+    "trackingCode": "D7D0748F64B44175B03749BF9B23FBD8",
+    "productionPhase": {
+      "initials": "MAT",
+      "description": "Fase onde as f\u00eameas gestantes v\u00e3o parir e amamentar leit\u00f5es."
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "be9e8ab0-094e-4a3f-ba0c-032b973e0896",
+    "name": "WIO880",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-03 12:02",
+    "entryDate": "2019-07-29",
+    "purchaseWeight": 135.078,
+    "breed": "on-5349/r",
+    "trackingCode": "6A7E3893BAE84B9A865A4A2ACE1A8629",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "52ada264-da00-48ff-a229-1f17d534e524",
+    "name": "HEQ427",
+    "type": "SWINE",
+    "status": 2,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-08-28 07:08",
+    "entryDate": "2019-07-03",
+    "purchaseWeight": 103.294,
+    "breed": "ov-4485/c",
+    "trackingCode": "512A84F4BD4947F3A56C9448502D17B0",
+    "productionPhase": {
+      "initials": "GESG",
+      "description": "Fase onde temos f\u00eameas (leitoas e matrizes) e machos (ou s\u00eamen) onde o foco principal \u00e9 cobertura e cuidar da gesta\u00e7\u00e3o das matrizes."
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  },
+  {
+    "id": "eac701b2-a2bd-48e5-8e8c-c0da7398eeec",
+    "name": "XYQ560",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Pocilga/NORTE",
+    "dataNascimento": "2017-06-22 03:19",
+    "entryDate": "2019-07-02",
+    "purchaseWeight": 141.136,
+    "breed": "ss-2108/q",
+    "trackingCode": "1834ABB21F834A948968CEA677F0ACFE",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UCC",
+      "description": "Ciclo Completo"
+    }
+  },
+  {
+    "id": "bc78e52a-38ab-4472-ade4-d7ff2ec1789f",
+    "name": "MHZ262",
+    "type": "POULTRY",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-07-26 02:22",
+    "entryDate": "2019-06-20",
+    "purchaseWeight": 143.685,
+    "breed": "yr-6653/s",
+    "trackingCode": "93079CF83DA84DEFBB36C0B2E2B5FBCD",
+    "productionPhase": {
+      "initials": "INC",
+      "description": "Fase onde os ovos f\u00e9rteis s\u00e3o incubados e eclodidos: produ\u00e7\u00e3o de pintos de 1 dia"
+    },
+    "farmType": {
+      "initials": "UPO",
+      "description": "Produ\u00e7\u00e3o"
+    }
+  },
+  {
+    "id": "8d28305d-0073-4872-ad6b-3e2266593156",
+    "name": "XDD534",
+    "type": "SWINE",
+    "status": 1,
+    "locale": "Sala 4",
+    "dataNascimento": "2017-06-12 19:11",
+    "entryDate": "2019-07-06",
+    "purchaseWeight": 110.715,
+    "breed": "fj-8619/z",
+    "trackingCode": "F3690FAD26B24D3DA28DBAAB759EDC17",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPL",
+      "description": "Produtora de Leit\u00f5es"
+    }
+  },
+  {
+    "id": "85db2937-f39a-4874-9662-1c116b2bb492",
+    "name": "MJW155",
+    "type": "POULTRY",
+    "status": 1,
+    "locale": "Pocilga/SUL",
+    "dataNascimento": "2017-08-30 22:56",
+    "entryDate": "2019-07-25",
+    "purchaseWeight": 85.866,
+    "breed": "os-2179/d",
+    "trackingCode": "4B9A569613C8401490B52AE352AF399B",
+    "productionPhase": {
+      "initials": "PRO",
+      "description": "Fase de produ\u00e7\u00e3o de ovos f\u00e9rteis -  galinhas e galos em um mesmo galp\u00e3o (+- rela\u00e7\u00e3o de 1:10)"
+    },
+    "farmType": {
+      "initials": "URE",
+      "description": "Recria"
+    }
+  },
+  {
+    "id": "4dfd91c8-89aa-4de9-a51f-ddb05d0b0f9b",
+    "name": "JAY167",
+    "type": "SWINE",
+    "status": 0,
+    "locale": "Localiza\u00e7\u00e3o gen\u00e9rica",
+    "dataNascimento": "2017-06-25 16:48",
+    "entryDate": "2019-05-14",
+    "purchaseWeight": 124.834,
+    "breed": "su-4773/g",
+    "trackingCode": "9DD2D3B25E1242569192A7B493F6BFF9",
+    "productionPhase": {
+      "initials": "TER",
+      "description": "Fase onde leit\u00f5es descrechados s\u00e3o alimentados at\u00e9 o final (abate)"
+    },
+    "farmType": {
+      "initials": "UTE",
+      "description": "Terminador"
+    }
+  },
+  {
+    "id": "6c15481e-fb20-4c89-b56b-1b92c300d190",
+    "name": "CAZ961",
+    "type": "SWINE",
+    "status": 3,
+    "locale": "Sala 5",
+    "dataNascimento": "2017-06-28 02:21",
+    "entryDate": "2019-07-17",
+    "purchaseWeight": 94.115,
+    "breed": "tj-7839/t",
+    "trackingCode": "16A9B7CD2E0649D1A5915765B00F7C4E",
+    "productionPhase": {
+      "initials": "CRE",
+      "description": "Fase onde leit\u00f5es desmamados s\u00e3o alimentados at\u00e9 23 Kg"
+    },
+    "farmType": {
+      "initials": "UPD",
+      "description": "Produtora de desmamados"
+    }
+  }
+]
